@@ -1,0 +1,1001 @@
+timestamp,student_id,session_id,device_id,location,attendance_status,lab_equipment_usage,interaction_count,engagement_level,biometric_stress_level,gaze_focus_ratio,edge_inference_label,cloud_label,year
+2024-01-15 09:00:00,190,SES22,EDGE5,Library,0,30.45,1,Medium,0.22,0.54,Attentive,Attentive,2024
+2024-01-15 09:00:10,173,SES7,EDGE9,Lab,0,15.91,0,High,0.94,0.96,Cheating,Cheating,2024
+2024-01-15 09:00:20,136,SES33,EDGE9,Online,1,26.68,0,Medium,0.89,0.52,Cheating,Cheating,2024
+2024-01-15 09:00:30,168,SES9,EDGE4,Library,1,12.64,3,Low,0.29,0.19,Distracted,Distracted,2024
+2024-01-15 09:00:40,186,SES31,EDGE9,Classroom,1,37.01,1,Low,0.04,0.62,Idle,Idle,2024
+2024-01-15 09:00:50,185,SES16,EDGE8,Online,1,29.15,2,High,0.24,0.59,Collaborative,Collaborative,2024
+2024-01-15 09:01:00,127,SES40,EDGE2,Library,1,31.33,8,Low,0.28,0.39,Collaborative,Collaborative,2024
+2024-01-15 09:01:10,125,SES26,EDGE6,Online,0,48.23,0,Medium,0.52,0.81,Collaborative,Collaborative,2024
+2024-01-15 09:01:20,176,SES20,EDGE3,Library,1,20.32,7,High,0.36,0.23,Idle,Idle,2024
+2024-01-15 09:01:30,197,SES33,EDGE6,Classroom,0,18.93,2,High,0.59,0.07,Attentive,Attentive,2024
+2024-01-15 09:01:40,163,SES21,EDGE9,Online,1,30.13,4,Low,0.21,0.42,Collaborative,Collaborative,2024
+2024-01-15 09:01:50,194,SES17,EDGE3,Online,1,19.08,4,Low,0.29,0.23,Distracted,Distracted,2024
+2024-01-15 09:02:00,148,SES7,EDGE3,Library,1,1.33,0,Low,0.25,0.11,Attentive,Attentive,2024
+2024-01-15 09:02:10,139,SES19,EDGE4,Online,0,0.86,7,Low,0.82,0.2,Collaborative,Collaborative,2024
+2024-01-15 09:02:20,103,SES9,EDGE8,Lab,0,5.13,6,High,0.2,0.28,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:02:30,112,SES44,EDGE1,Online,0,11.29,9,Medium,0.16,0.01,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:02:40,111,SES29,EDGE6,Online,0,12.31,7,Medium,0.29,0.55,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:02:50,129,SES46,EDGE4,Lab,0,17.45,1,Low,0.33,0.78,Attentive,Attentive,2024
+2024-01-15 09:03:00,152,SES17,EDGE4,Classroom,0,30.78,7,Medium,0.91,0.92,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:03:10,167,SES21,EDGE6,Lab,1,14.99,5,Low,0.5,0.56,Distracted,Distracted,2024
+2024-01-15 09:03:20,153,SES13,EDGE3,Lab,1,46.4,4,Low,0.37,0.76,Cheating,Cheating,2024
+2024-01-15 09:03:30,154,SES15,EDGE1,Online,0,43.49,3,Low,0.05,0.44,Distracted,Distracted,2024
+2024-01-15 09:03:40,138,SES13,EDGE4,Lab,0,26.03,4,High,0.42,0.87,Idle,Idle,2024
+2024-01-15 09:03:50,194,SES19,EDGE6,Lab,1,23.3,7,High,0.94,0.61,Idle,Idle,2024
+2024-01-15 09:04:00,168,SES6,EDGE7,Library,0,40.29,9,Low,0.25,0.89,Attentive,Attentive,2024
+2024-01-15 09:04:10,192,SES8,EDGE2,Lab,0,51.11,5,Low,0.74,0.26,Idle,Idle,2024
+2024-01-15 09:04:20,153,SES30,EDGE4,Classroom,0,27.16,4,High,0.56,0.58,Cheating,Cheating,2024
+2024-01-15 09:04:30,127,SES43,EDGE1,Lab,0,45.5,5,High,0.04,0.8,Distracted,Distracted,2024
+2024-01-15 09:04:40,123,SES28,EDGE6,Classroom,1,33.76,3,Medium,0.19,0.22,Cheating,Cheating,2024
+2024-01-15 09:04:50,190,SES19,EDGE6,Classroom,0,12.19,0,High,0.17,0.98,Collaborative,Collaborative,2024
+2024-01-15 09:05:00,114,SES36,EDGE8,Classroom,1,30.69,0,High,0.91,0.7,Idle,Idle,2024
+2024-01-15 09:05:10,130,SES1,EDGE2,Lab,1,6.0,7,Low,0.3,0.65,Distracted,Distracted,2024
+2024-01-15 09:05:20,168,SES9,EDGE5,Classroom,0,2.48,3,Medium,0.61,0.81,Attentive,Attentive,2024
+2024-01-15 09:05:30,123,SES39,EDGE1,Classroom,0,58.4,6,High,0.69,0.01,Cheating,Cheating,2024
+2024-01-15 09:05:40,185,SES35,EDGE5,Classroom,0,28.11,6,High,0.5,0.87,Cheating,Cheating,2024
+2024-01-15 09:05:50,120,SES46,EDGE3,Online,1,44.63,2,High,0.24,0.44,Attentive,Attentive,2024
+2024-01-15 09:06:00,106,SES24,EDGE5,Classroom,1,6.0,9,Low,0.7,0.49,Attentive,Attentive,2024
+2024-01-15 09:06:10,196,SES7,EDGE4,Online,0,4.64,6,Medium,0.52,0.04,Distracted,Distracted,2024
+2024-01-15 09:06:20,115,SES41,EDGE5,Classroom,0,34.33,7,Medium,0.24,0.1,Collaborative,Collaborative,2024
+2024-01-15 09:06:30,169,SES3,EDGE2,Library,1,36.34,6,High,0.08,0.66,Idle,Idle,2024
+2024-01-15 09:06:40,160,SES24,EDGE5,Online,0,1.6,6,Low,0.19,0.56,Idle,Idle,2024
+2024-01-15 09:06:50,189,SES3,EDGE2,Online,1,28.48,0,Medium,0.45,0.07,Attentive,Attentive,2024
+2024-01-15 09:07:00,166,SES44,EDGE2,Lab,0,49.63,4,Medium,0.11,0.32,Idle,Idle,2024
+2024-01-15 09:07:10,176,SES10,EDGE6,Library,1,26.46,0,Medium,0.95,0.21,Attentive,Attentive,2024
+2024-01-15 09:07:20,171,SES32,EDGE7,Classroom,1,53.86,1,High,0.77,0.11,Idle,Idle,2024
+2024-01-15 09:07:30,195,SES11,EDGE2,Lab,0,58.9,0,Medium,0.42,0.7,Attentive,Attentive,2024
+2024-01-15 09:07:40,168,SES12,EDGE6,Library,1,22.41,4,Medium,0.6,0.65,Idle,Idle,2024
+2024-01-15 09:07:50,189,SES12,EDGE9,Library,1,14.85,0,High,0.26,0.33,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:08:00,107,SES30,EDGE2,Classroom,1,28.52,2,Low,0.38,0.87,Attentive,Attentive,2024
+2024-01-15 09:08:10,137,SES31,EDGE4,Online,1,48.31,6,Medium,0.71,0.33,Idle,Idle,2024
+2024-01-15 09:08:20,186,SES36,EDGE8,Classroom,0,16.87,6,Medium,0.01,0.67,Idle,Idle,2024
+2024-01-15 09:08:30,117,SES39,EDGE1,Library,0,58.75,5,High,0.25,0.38,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:08:40,187,SES45,EDGE4,Library,1,5.35,5,Medium,0.43,0.19,Cheating,Cheating,2024
+2024-01-15 09:08:50,135,SES13,EDGE9,Classroom,0,45.82,2,Low,0.09,0.91,Collaborative,Collaborative,2024
+2024-01-15 09:09:00,110,SES49,EDGE5,Lab,1,12.56,9,High,0.19,0.26,Collaborative,Collaborative,2024
+2024-01-15 09:09:10,143,SES9,EDGE9,Library,1,0.36,3,Medium,0.35,0.83,Cheating,Cheating,2024
+2024-01-15 09:09:20,134,SES43,EDGE7,Classroom,1,27.82,3,Medium,0.96,0.98,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:09:30,115,SES5,EDGE5,Classroom,0,32.61,0,High,0.71,0.42,Idle,Idle,2024
+2024-01-15 09:09:40,189,SES48,EDGE1,Library,0,9.11,2,Medium,0.58,0.32,Idle,Idle,2024
+2024-01-15 09:09:50,152,SES46,EDGE2,Lab,0,21.76,1,Low,0.57,0.13,Idle,Idle,2024
+2024-01-15 09:10:00,161,SES20,EDGE4,Classroom,1,56.19,8,Low,0.18,0.62,Collaborative,Collaborative,2024
+2024-01-15 09:10:10,193,SES19,EDGE6,Lab,1,36.5,5,Medium,0.38,0.49,Collaborative,Collaborative,2024
+2024-01-15 09:10:20,149,SES31,EDGE4,Library,0,57.83,9,Medium,0.85,0.92,Cheating,Cheating,2024
+2024-01-15 09:10:30,132,SES46,EDGE1,Classroom,1,28.82,8,Low,0.34,0.65,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:10:40,103,SES1,EDGE3,Lab,0,14.5,3,Low,0.07,0.96,Cheating,Cheating,2024
+2024-01-15 09:10:50,124,SES16,EDGE4,Classroom,0,22.91,8,Low,0.55,0.35,Distracted,Distracted,2024
+2024-01-15 09:11:00,147,SES18,EDGE2,Online,0,32.55,2,High,0.54,0.28,Collaborative,Collaborative,2024
+2024-01-15 09:11:10,167,SES25,EDGE1,Lab,1,24.45,6,Low,0.75,0.05,Cheating,Cheating,2024
+2024-01-15 09:11:20,117,SES49,EDGE6,Online,0,32.79,8,Medium,0.49,0.06,Attentive,Attentive,2024
+2024-01-15 09:11:30,152,SES33,EDGE7,Classroom,1,31.51,5,Low,0.03,0.27,Idle,Idle,2024
+2024-01-15 09:11:40,154,SES40,EDGE6,Library,0,9.13,9,Medium,0.99,0.02,Distracted,Distracted,2024
+2024-01-15 09:11:50,150,SES19,EDGE2,Library,0,4.73,5,Low,0.14,0.67,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:12:00,169,SES38,EDGE1,Online,0,37.52,8,Medium,0.53,0.48,Collaborative,Collaborative,2024
+2024-01-15 09:12:10,156,SES1,EDGE8,Library,1,15.88,5,Low,0.0,0.4,Idle,Idle,2024
+2024-01-15 09:12:20,198,SES18,EDGE8,Online,1,29.25,8,Low,0.84,0.72,Cheating,Cheating,2024
+2024-01-15 09:12:30,135,SES4,EDGE9,Classroom,1,55.35,8,High,0.9,0.83,Idle,Idle,2024
+2024-01-15 09:12:40,175,SES22,EDGE8,Online,0,37.91,0,Low,0.29,0.81,Collaborative,Collaborative,2024
+2024-01-15 09:12:50,112,SES27,EDGE9,Classroom,0,41.07,6,High,0.15,0.84,Distracted,Distracted,2024
+2024-01-15 09:13:00,132,SES7,EDGE6,Library,1,44.87,0,Medium,0.88,0.31,Cheating,Cheating,2024
+2024-01-15 09:13:10,102,SES15,EDGE4,Lab,0,7.82,1,Medium,0.69,0.22,Idle,Idle,2024
+2024-01-15 09:13:20,138,SES12,EDGE2,Library,1,4.6,3,Medium,0.29,0.62,Cheating,Cheating,2024
+2024-01-15 09:13:30,186,SES13,EDGE9,Classroom,0,23.51,2,Low,0.47,0.7,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:13:40,137,SES20,EDGE9,Lab,1,57.56,2,Medium,0.01,0.2,Distracted,Distracted,2024
+2024-01-15 09:13:50,139,SES17,EDGE6,Classroom,1,53.66,1,Low,0.19,0.23,Idle,Idle,2024
+2024-01-15 09:14:00,103,SES20,EDGE8,Classroom,1,22.13,6,Low,0.83,0.64,Distracted,Distracted,2024
+2024-01-15 09:14:10,164,SES17,EDGE7,Classroom,1,33.8,9,Medium,0.65,0.53,Attentive,Attentive,2024
+2024-01-15 09:14:20,197,SES6,EDGE9,Online,1,5.36,1,Low,0.09,0.19,Distracted,Distracted,2024
+2024-01-15 09:14:30,162,SES9,EDGE8,Lab,0,55.16,2,Low,0.71,0.36,Collaborative,Collaborative,2024
+2024-01-15 09:14:40,161,SES45,EDGE8,Library,0,18.21,4,Low,0.86,0.96,Attentive,Attentive,2024
+2024-01-15 09:14:50,153,SES19,EDGE3,Lab,1,39.77,7,Medium,0.23,0.56,Cheating,Cheating,2024
+2024-01-15 09:15:00,172,SES24,EDGE9,Library,0,38.38,0,Medium,0.53,0.29,Collaborative,Collaborative,2024
+2024-01-15 09:15:10,149,SES43,EDGE9,Classroom,1,42.48,4,Medium,0.9,0.79,Idle,Idle,2024
+2024-01-15 09:15:20,127,SES15,EDGE3,Online,1,51.25,6,Low,0.46,0.21,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:15:30,135,SES5,EDGE7,Lab,1,35.78,7,Low,0.6,0.49,Cheating,Cheating,2024
+2024-01-15 09:15:40,100,SES29,EDGE9,Classroom,1,14.62,1,Medium,0.49,0.31,Cheating,Cheating,2024
+2024-01-15 09:15:50,178,SES33,EDGE1,Online,1,28.22,0,Low,0.92,0.91,Idle,Idle,2024
+2024-01-15 09:16:00,159,SES6,EDGE2,Classroom,0,12.82,5,Medium,0.12,0.18,Cheating,Cheating,2024
+2024-01-15 09:16:10,177,SES38,EDGE7,Library,1,52.7,2,Low,0.17,0.58,Cheating,Cheating,2024
+2024-01-15 09:16:20,108,SES28,EDGE2,Lab,0,23.9,4,Medium,0.55,0.11,Collaborative,Collaborative,2024
+2024-01-15 09:16:30,196,SES21,EDGE2,Online,1,6.67,6,High,0.07,0.38,Idle,Idle,2024
+2024-01-15 09:16:40,140,SES2,EDGE3,Online,0,7.77,0,Medium,0.75,0.2,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:16:50,150,SES10,EDGE3,Lab,1,48.07,1,Medium,0.69,0.68,Collaborative,Collaborative,2024
+2024-01-15 09:17:00,120,SES38,EDGE9,Classroom,1,58.83,2,High,0.7,1.0,Cheating,Cheating,2024
+2024-01-15 09:17:10,156,SES28,EDGE4,Lab,1,29.41,2,Low,0.48,0.72,Distracted,Distracted,2024
+2024-01-15 09:17:20,118,SES28,EDGE6,Online,0,25.7,8,Medium,0.98,0.68,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:17:30,194,SES28,EDGE4,Online,1,9.93,0,High,0.9,0.17,Collaborative,Collaborative,2024
+2024-01-15 09:17:40,140,SES18,EDGE1,Library,0,48.55,1,Medium,0.2,0.14,Cheating,Cheating,2024
+2024-01-15 09:17:50,164,SES5,EDGE1,Online,0,14.4,1,Medium,0.25,0.4,Collaborative,Collaborative,2024
+2024-01-15 09:18:00,192,SES1,EDGE8,Classroom,0,6.58,7,Medium,0.45,0.87,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:18:10,179,SES2,EDGE1,Lab,0,3.32,2,High,0.4,0.65,Attentive,Attentive,2024
+2024-01-15 09:18:20,108,SES37,EDGE8,Library,0,18.13,1,Medium,0.32,0.82,Cheating,Cheating,2024
+2024-01-15 09:18:30,158,SES31,EDGE6,Lab,1,27.85,2,Low,0.61,0.55,Attentive,Attentive,2024
+2024-01-15 09:18:40,166,SES34,EDGE8,Lab,1,17.12,7,Medium,0.71,0.62,Attentive,Attentive,2024
+2024-01-15 09:18:50,120,SES34,EDGE8,Classroom,1,1.71,5,Medium,0.43,0.42,Cheating,Cheating,2024
+2024-01-15 09:19:00,185,SES43,EDGE8,Classroom,1,56.59,4,Medium,0.6,0.51,Collaborative,Collaborative,2024
+2024-01-15 09:19:10,160,SES17,EDGE2,Online,1,55.87,9,Medium,0.07,0.77,Attentive,Attentive,2024
+2024-01-15 09:19:20,162,SES43,EDGE9,Library,0,45.33,2,High,0.05,0.41,Distracted,Distracted,2024
+2024-01-15 09:19:30,133,SES14,EDGE8,Library,0,28.5,1,High,0.57,0.04,Distracted,Distracted,2024
+2024-01-15 09:19:40,144,SES31,EDGE4,Library,1,40.73,4,Low,0.06,0.1,Attentive,Attentive,2024
+2024-01-15 09:19:50,156,SES16,EDGE4,Library,0,39.92,2,Medium,0.15,0.99,Collaborative,Collaborative,2024
+2024-01-15 09:20:00,135,SES11,EDGE3,Lab,1,41.67,0,Medium,0.88,0.67,Collaborative,Collaborative,2024
+2024-01-15 09:20:10,185,SES6,EDGE7,Lab,0,39.41,4,Low,0.45,0.08,Distracted,Distracted,2024
+2024-01-15 09:20:20,178,SES26,EDGE1,Classroom,0,54.65,6,Low,0.1,0.23,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:20:30,113,SES48,EDGE2,Online,1,37.67,6,Low,0.39,0.72,Attentive,Attentive,2024
+2024-01-15 09:20:40,170,SES16,EDGE3,Classroom,0,47.92,8,Medium,0.81,0.16,Cheating,Cheating,2024
+2024-01-15 09:20:50,107,SES2,EDGE3,Classroom,0,38.93,0,Medium,0.82,0.18,Cheating,Cheating,2024
+2024-01-15 09:21:00,197,SES31,EDGE7,Online,1,49.26,8,Medium,0.23,0.11,Distracted,Distracted,2024
+2024-01-15 09:21:10,144,SES47,EDGE4,Online,0,43.59,1,Medium,0.94,0.06,Cheating,Cheating,2024
+2024-01-15 09:21:20,177,SES25,EDGE2,Online,1,51.7,6,Low,0.81,0.81,Collaborative,Collaborative,2024
+2024-01-15 09:21:30,168,SES39,EDGE6,Classroom,1,43.85,9,Low,0.25,0.69,Cheating,Cheating,2024
+2024-01-15 09:21:40,130,SES27,EDGE1,Classroom,0,56.49,2,Medium,0.93,0.32,Idle,Idle,2024
+2024-01-15 09:21:50,102,SES43,EDGE1,Classroom,1,26.65,0,Medium,0.41,0.25,Collaborative,Collaborative,2024
+2024-01-15 09:22:00,197,SES19,EDGE5,Classroom,1,59.72,2,Low,0.08,0.99,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:22:10,139,SES48,EDGE1,Online,1,4.61,1,High,0.04,0.05,Cheating,Cheating,2024
+2024-01-15 09:22:20,113,SES6,EDGE6,Lab,1,54.46,3,Medium,0.35,0.63,Collaborative,Collaborative,2024
+2024-01-15 09:22:30,180,SES19,EDGE1,Library,1,17.28,3,Low,0.35,0.49,Distracted,Distracted,2024
+2024-01-15 09:22:40,190,SES46,EDGE1,Classroom,0,2.24,7,Medium,0.49,0.74,Idle,Idle,2024
+2024-01-15 09:22:50,187,SES34,EDGE2,Library,1,31.81,8,High,0.33,0.23,Collaborative,Collaborative,2024
+2024-01-15 09:23:00,107,SES18,EDGE4,Lab,0,7.84,0,Medium,0.25,0.24,Distracted,Distracted,2024
+2024-01-15 09:23:10,103,SES20,EDGE5,Online,1,6.29,5,High,0.03,0.44,Idle,Idle,2024
+2024-01-15 09:23:20,199,SES1,EDGE6,Online,0,55.69,3,Medium,0.55,0.3,Idle,Idle,2024
+2024-01-15 09:23:30,195,SES25,EDGE3,Library,0,22.09,3,Medium,0.14,0.13,Idle,Idle,2024
+2024-01-15 09:23:40,164,SES18,EDGE9,Classroom,1,33.96,1,High,0.74,0.69,Idle,Idle,2024
+2024-01-15 09:23:50,176,SES35,EDGE6,Online,1,32.77,1,Medium,0.68,0.49,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:24:00,176,SES47,EDGE5,Library,0,12.24,2,Medium,0.08,0.21,Collaborative,Collaborative,2024
+2024-01-15 09:24:10,191,SES28,EDGE9,Lab,0,47.48,9,Medium,0.27,0.67,Idle,Idle,2024
+2024-01-15 09:24:20,143,SES23,EDGE1,Online,1,22.87,5,Medium,0.58,0.39,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:24:30,122,SES42,EDGE5,Online,1,19.37,5,Medium,0.62,0.85,Attentive,Attentive,2024
+2024-01-15 09:24:40,136,SES23,EDGE1,Classroom,0,44.7,5,High,0.22,0.72,Idle,Idle,2024
+2024-01-15 09:24:50,113,SES16,EDGE3,Classroom,0,30.73,9,Medium,0.01,0.57,Cheating,Cheating,2024
+2024-01-15 09:25:00,170,SES3,EDGE4,Classroom,0,0.02,1,Medium,0.53,0.21,Distracted,Distracted,2024
+2024-01-15 09:25:10,130,SES47,EDGE6,Lab,1,51.42,2,Medium,0.67,0.29,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:25:20,145,SES1,EDGE9,Classroom,0,47.52,5,High,0.11,0.4,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:25:30,188,SES3,EDGE2,Lab,1,39.15,2,Low,0.25,0.96,Collaborative,Collaborative,2024
+2024-01-15 09:25:40,191,SES48,EDGE1,Lab,1,58.34,1,Medium,0.31,0.03,Cheating,Cheating,2024
+2024-01-15 09:25:50,192,SES4,EDGE5,Classroom,0,38.36,2,High,0.26,0.73,Distracted,Distracted,2024
+2024-01-15 09:26:00,113,SES38,EDGE9,Online,1,45.45,0,Low,0.76,0.35,Attentive,Attentive,2024
+2024-01-15 09:26:10,190,SES10,EDGE2,Online,1,21.76,0,Medium,0.97,0.44,Attentive,Attentive,2024
+2024-01-15 09:26:20,156,SES2,EDGE3,Lab,1,15.4,5,High,0.27,0.57,Distracted,Distracted,2024
+2024-01-15 09:26:30,147,SES2,EDGE5,Library,1,15.89,5,Low,0.78,0.07,Attentive,Attentive,2024
+2024-01-15 09:26:40,111,SES10,EDGE5,Classroom,0,45.41,4,Low,0.57,0.87,Idle,Idle,2024
+2024-01-15 09:26:50,181,SES32,EDGE8,Lab,0,19.64,2,Low,0.49,0.39,Collaborative,Collaborative,2024
+2024-01-15 09:27:00,102,SES16,EDGE7,Online,0,2.69,7,High,0.02,0.78,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:27:10,131,SES10,EDGE3,Online,0,23.88,6,High,0.34,1.0,Attentive,Attentive,2024
+2024-01-15 09:27:20,183,SES45,EDGE5,Classroom,0,19.0,8,Low,0.01,0.91,Collaborative,Collaborative,2024
+2024-01-15 09:27:30,155,SES4,EDGE8,Online,0,22.83,9,Medium,0.16,0.65,Attentive,Attentive,2024
+2024-01-15 09:27:40,123,SES13,EDGE7,Lab,1,25.37,2,Low,0.41,0.35,Cheating,Cheating,2024
+2024-01-15 09:27:50,157,SES15,EDGE8,Online,1,50.98,8,Low,0.35,0.89,Attentive,Attentive,2024
+2024-01-15 09:28:00,117,SES19,EDGE6,Lab,0,17.85,3,High,0.44,0.3,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:28:10,176,SES23,EDGE8,Classroom,1,38.85,6,High,0.01,0.82,Cheating,Cheating,2024
+2024-01-15 09:28:20,165,SES45,EDGE6,Lab,1,38.97,4,Low,0.27,0.22,Idle,Idle,2024
+2024-01-15 09:28:30,172,SES28,EDGE6,Library,0,51.61,9,Low,0.16,0.86,Collaborative,Collaborative,2024
+2024-01-15 09:28:40,175,SES6,EDGE9,Online,0,16.08,1,Medium,0.67,0.65,Cheating,Cheating,2024
+2024-01-15 09:28:50,108,SES14,EDGE5,Library,0,40.6,1,High,0.77,0.54,Cheating,Cheating,2024
+2024-01-15 09:29:00,164,SES46,EDGE7,Lab,0,7.27,3,Low,0.18,0.61,Distracted,Distracted,2024
+2024-01-15 09:29:10,150,SES35,EDGE4,Lab,0,35.59,8,Medium,0.5,0.43,Collaborative,Collaborative,2024
+2024-01-15 09:29:20,173,SES23,EDGE4,Online,1,30.29,8,High,0.7,0.62,Attentive,Attentive,2024
+2024-01-15 09:29:30,180,SES25,EDGE8,Lab,0,56.72,1,Medium,0.9,0.08,Distracted,Distracted,2024
+2024-01-15 09:29:40,191,SES2,EDGE6,Library,1,43.17,6,Medium,0.29,0.16,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:29:50,125,SES36,EDGE5,Library,1,51.43,8,Low,0.66,0.78,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:30:00,185,SES22,EDGE4,Library,0,51.18,9,High,0.41,0.1,Idle,Idle,2024
+2024-01-15 09:30:10,181,SES17,EDGE4,Lab,0,44.19,7,High,0.75,0.31,Collaborative,Collaborative,2024
+2024-01-15 09:30:20,130,SES17,EDGE7,Lab,1,22.4,4,High,0.68,0.34,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:30:30,133,SES32,EDGE9,Library,0,16.3,5,Medium,0.08,0.52,Cheating,Cheating,2024
+2024-01-15 09:30:40,187,SES14,EDGE8,Library,1,42.92,6,Low,0.59,0.63,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:30:50,148,SES34,EDGE4,Library,0,8.13,1,Medium,0.74,0.77,Collaborative,Collaborative,2024
+2024-01-15 09:31:00,131,SES17,EDGE4,Lab,0,54.5,8,Medium,0.31,0.7,Idle,Idle,2024
+2024-01-15 09:31:10,119,SES39,EDGE7,Classroom,1,52.96,6,Medium,0.11,0.68,Distracted,Distracted,2024
+2024-01-15 09:31:20,156,SES23,EDGE7,Online,1,2.17,0,Medium,0.65,0.32,Distracted,Distracted,2024
+2024-01-15 09:31:30,150,SES36,EDGE1,Library,1,17.25,7,Medium,0.37,0.78,Cheating,Cheating,2024
+2024-01-15 09:31:40,199,SES46,EDGE5,Lab,0,11.22,8,Medium,0.75,0.93,Attentive,Attentive,2024
+2024-01-15 09:31:50,162,SES22,EDGE4,Online,1,21.0,4,Medium,0.01,0.62,Collaborative,Collaborative,2024
+2024-01-15 09:32:00,162,SES18,EDGE1,Library,1,44.99,3,Low,0.01,0.42,Attentive,Attentive,2024
+2024-01-15 09:32:10,121,SES32,EDGE3,Classroom,1,30.92,3,Medium,0.58,0.35,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:32:20,170,SES49,EDGE1,Library,1,1.01,1,Low,0.65,0.25,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:32:30,134,SES33,EDGE5,Online,1,22.71,0,Medium,0.21,0.38,Attentive,Attentive,2024
+2024-01-15 09:32:40,110,SES41,EDGE5,Lab,0,25.74,9,Low,0.46,0.13,Distracted,Distracted,2024
+2024-01-15 09:32:50,151,SES2,EDGE4,Online,0,40.34,8,Medium,0.02,0.25,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:33:00,152,SES6,EDGE1,Classroom,0,7.37,7,Medium,0.97,0.05,Distracted,Distracted,2024
+2024-01-15 09:33:10,163,SES22,EDGE4,Lab,0,20.29,7,High,0.87,0.53,Idle,Idle,2024
+2024-01-15 09:33:20,117,SES22,EDGE8,Classroom,1,9.1,9,Medium,0.61,0.37,Distracted,Distracted,2024
+2024-01-15 09:33:30,137,SES1,EDGE7,Library,1,43.71,8,High,0.67,0.26,Attentive,Attentive,2024
+2024-01-15 09:33:40,151,SES18,EDGE6,Library,1,41.0,2,Low,0.6,0.44,Collaborative,Collaborative,2024
+2024-01-15 09:33:50,156,SES9,EDGE5,Library,1,48.36,7,Low,0.66,0.7,Collaborative,Collaborative,2024
+2024-01-15 09:34:00,185,SES37,EDGE4,Library,1,29.99,9,Low,0.33,0.13,Collaborative,Collaborative,2024
+2024-01-15 09:34:10,159,SES6,EDGE4,Online,0,24.52,5,Low,0.16,0.02,Collaborative,Collaborative,2024
+2024-01-15 09:34:20,168,SES15,EDGE1,Lab,1,45.21,3,Medium,0.67,0.04,Cheating,Cheating,2024
+2024-01-15 09:34:30,104,SES28,EDGE7,Library,1,28.89,2,High,0.75,0.4,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:34:40,181,SES24,EDGE6,Lab,0,10.75,2,Low,0.33,0.42,Distracted,Distracted,2024
+2024-01-15 09:34:50,105,SES26,EDGE3,Lab,0,18.06,3,Medium,0.38,0.74,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:35:00,199,SES12,EDGE4,Library,0,1.85,6,Medium,0.4,0.32,Attentive,Attentive,2024
+2024-01-15 09:35:10,141,SES29,EDGE3,Classroom,0,10.74,9,High,0.37,0.47,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:35:20,119,SES46,EDGE5,Classroom,1,22.14,3,High,0.35,0.21,Collaborative,Collaborative,2024
+2024-01-15 09:35:30,196,SES36,EDGE2,Library,0,27.57,6,Medium,0.26,0.58,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:35:40,164,SES13,EDGE7,Online,0,19.24,3,High,0.41,0.96,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:35:50,143,SES16,EDGE6,Lab,0,55.27,9,High,0.1,0.63,Cheating,Cheating,2024
+2024-01-15 09:36:00,109,SES17,EDGE3,Lab,1,38.02,6,Medium,0.61,0.81,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:36:10,138,SES42,EDGE9,Online,1,59.12,3,Medium,0.53,0.85,Idle,Idle,2024
+2024-01-15 09:36:20,149,SES41,EDGE7,Classroom,0,9.33,4,High,0.95,0.34,Attentive,Attentive,2024
+2024-01-15 09:36:30,110,SES22,EDGE2,Library,0,45.79,9,High,0.45,0.16,Distracted,Distracted,2024
+2024-01-15 09:36:40,187,SES43,EDGE8,Lab,0,23.73,5,Low,0.9,0.74,Attentive,Attentive,2024
+2024-01-15 09:36:50,197,SES11,EDGE5,Classroom,0,2.89,5,High,0.01,0.22,Attentive,Attentive,2024
+2024-01-15 09:37:00,164,SES34,EDGE4,Library,0,51.15,0,Low,0.38,0.81,Idle,Idle,2024
+2024-01-15 09:37:10,126,SES41,EDGE3,Online,1,10.82,2,Low,0.64,0.77,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:37:20,195,SES22,EDGE3,Library,1,12.89,8,Low,0.21,0.19,Distracted,Distracted,2024
+2024-01-15 09:37:30,138,SES24,EDGE6,Online,0,24.83,3,High,0.57,0.34,Idle,Idle,2024
+2024-01-15 09:37:40,191,SES41,EDGE4,Classroom,0,46.78,6,High,0.15,0.35,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:37:50,153,SES41,EDGE9,Online,0,51.78,3,High,0.45,0.23,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:38:00,109,SES35,EDGE4,Online,1,49.61,1,High,0.86,0.72,Collaborative,Collaborative,2024
+2024-01-15 09:38:10,121,SES42,EDGE9,Classroom,0,58.6,3,Low,0.25,0.89,Idle,Idle,2024
+2024-01-15 09:38:20,194,SES15,EDGE8,Library,0,52.28,9,High,0.57,0.01,Attentive,Attentive,2024
+2024-01-15 09:38:30,199,SES35,EDGE3,Lab,1,52.14,7,High,0.52,0.62,Distracted,Distracted,2024
+2024-01-15 09:38:40,101,SES10,EDGE7,Library,1,40.81,0,Medium,1.0,0.75,Cheating,Cheating,2024
+2024-01-15 09:38:50,115,SES32,EDGE7,Lab,1,20.5,1,Medium,0.83,0.55,Collaborative,Collaborative,2024
+2024-01-15 09:39:00,170,SES18,EDGE4,Classroom,0,14.63,3,High,0.54,0.49,Distracted,Distracted,2024
+2024-01-15 09:39:10,175,SES42,EDGE3,Online,0,39.83,8,Medium,0.87,0.29,Idle,Idle,2024
+2024-01-15 09:39:20,113,SES25,EDGE4,Online,0,30.85,0,Medium,0.61,0.72,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:39:30,175,SES10,EDGE2,Online,1,11.73,1,Medium,0.96,0.93,Collaborative,Collaborative,2024
+2024-01-15 09:39:40,169,SES33,EDGE6,Online,1,13.96,9,Low,0.92,0.18,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:39:50,137,SES25,EDGE2,Online,1,22.64,3,Low,0.9,0.32,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:40:00,154,SES17,EDGE5,Online,0,46.67,9,High,0.79,0.43,Cheating,Cheating,2024
+2024-01-15 09:40:10,112,SES43,EDGE4,Library,1,13.09,1,Medium,0.11,0.79,Idle,Idle,2024
+2024-01-15 09:40:20,144,SES38,EDGE6,Library,0,11.59,9,High,0.68,0.63,Idle,Idle,2024
+2024-01-15 09:40:30,133,SES16,EDGE3,Classroom,0,3.74,7,Medium,0.44,0.35,Attentive,Attentive,2024
+2024-01-15 09:40:40,147,SES18,EDGE2,Lab,0,34.66,2,Medium,0.21,0.71,Attentive,Attentive,2024
+2024-01-15 09:40:50,109,SES28,EDGE2,Library,0,7.81,2,Medium,0.41,0.96,Attentive,Attentive,2024
+2024-01-15 09:41:00,102,SES23,EDGE1,Library,1,29.91,5,High,0.16,0.55,Attentive,Attentive,2024
+2024-01-15 09:41:10,159,SES12,EDGE4,Online,1,58.15,9,Medium,0.34,0.15,Distracted,Distracted,2024
+2024-01-15 09:41:20,138,SES28,EDGE2,Classroom,1,32.45,0,Low,0.65,0.49,Attentive,Attentive,2024
+2024-01-15 09:41:30,144,SES28,EDGE1,Library,0,33.11,5,High,0.52,0.83,Idle,Idle,2024
+2024-01-15 09:41:40,111,SES9,EDGE9,Classroom,0,19.92,2,Medium,0.41,0.1,Collaborative,Collaborative,2024
+2024-01-15 09:41:50,187,SES34,EDGE8,Online,0,4.69,9,High,0.55,0.59,Collaborative,Collaborative,2024
+2024-01-15 09:42:00,195,SES43,EDGE6,Online,0,7.87,6,Low,0.2,0.31,Cheating,Cheating,2024
+2024-01-15 09:42:10,147,SES5,EDGE7,Classroom,1,8.48,7,Medium,0.53,0.95,Attentive,Attentive,2024
+2024-01-15 09:42:20,157,SES24,EDGE1,Classroom,1,25.28,6,Low,0.12,0.71,Distracted,Distracted,2024
+2024-01-15 09:42:30,169,SES39,EDGE9,Lab,0,16.11,1,Medium,0.38,0.63,Cheating,Cheating,2024
+2024-01-15 09:42:40,157,SES27,EDGE7,Library,0,40.01,6,High,0.9,0.02,Cheating,Cheating,2024
+2024-01-15 09:42:50,165,SES35,EDGE3,Online,1,5.48,9,High,0.23,0.25,Collaborative,Collaborative,2024
+2024-01-15 09:43:00,142,SES20,EDGE1,Library,1,25.64,1,High,0.56,0.25,Collaborative,Collaborative,2024
+2024-01-15 09:43:10,173,SES5,EDGE6,Classroom,1,37.15,7,High,0.61,0.62,Idle,Idle,2024
+2024-01-15 09:43:20,127,SES13,EDGE8,Library,0,17.0,1,Low,0.26,0.47,Cheating,Cheating,2024
+2024-01-15 09:43:30,192,SES21,EDGE8,Library,0,57.17,7,High,0.04,0.52,Distracted,Distracted,2024
+2024-01-15 09:43:40,174,SES46,EDGE2,Online,0,45.95,5,High,0.66,0.16,Distracted,Distracted,2024
+2024-01-15 09:43:50,180,SES10,EDGE2,Online,1,10.02,2,High,0.06,0.8,Distracted,Distracted,2024
+2024-01-15 09:44:00,198,SES17,EDGE9,Online,1,2.41,1,Low,0.25,0.26,Idle,Idle,2024
+2024-01-15 09:44:10,133,SES27,EDGE5,Library,1,2.14,1,High,0.48,0.19,Cheating,Cheating,2024
+2024-01-15 09:44:20,178,SES32,EDGE9,Classroom,0,37.62,9,High,0.88,0.71,Collaborative,Collaborative,2024
+2024-01-15 09:44:30,178,SES15,EDGE1,Lab,1,28.83,5,Medium,0.08,0.5,Collaborative,Collaborative,2024
+2024-01-15 09:44:40,114,SES39,EDGE3,Classroom,1,49.64,7,Medium,0.62,0.59,Cheating,Cheating,2024
+2024-01-15 09:44:50,184,SES3,EDGE6,Online,1,56.24,8,Low,0.49,0.35,Cheating,Cheating,2024
+2024-01-15 09:45:00,177,SES16,EDGE4,Online,1,57.25,8,Medium,0.81,0.33,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:45:10,106,SES45,EDGE2,Library,0,14.76,0,High,0.1,0.03,Attentive,Attentive,2024
+2024-01-15 09:45:20,127,SES32,EDGE8,Lab,0,20.18,1,High,0.56,0.54,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:45:30,132,SES39,EDGE4,Online,0,31.4,1,Low,0.3,0.82,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:45:40,102,SES33,EDGE7,Online,0,17.49,9,High,0.32,0.09,Collaborative,Collaborative,2024
+2024-01-15 09:45:50,126,SES22,EDGE6,Classroom,0,28.13,3,Medium,0.79,0.32,Idle,Idle,2024
+2024-01-15 09:46:00,152,SES36,EDGE5,Classroom,0,19.49,9,High,0.44,0.34,Cheating,Cheating,2024
+2024-01-15 09:46:10,176,SES47,EDGE1,Lab,1,6.31,7,Medium,0.98,0.59,Distracted,Distracted,2024
+2024-01-15 09:46:20,168,SES7,EDGE6,Library,0,43.12,3,High,0.18,0.09,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:46:30,140,SES44,EDGE2,Classroom,1,5.48,8,Low,0.08,0.47,Attentive,Attentive,2024
+2024-01-15 09:46:40,139,SES39,EDGE8,Online,0,26.22,9,High,0.01,0.58,Attentive,Attentive,2024
+2024-01-15 09:46:50,160,SES46,EDGE6,Online,0,21.24,3,High,0.62,0.32,Idle,Idle,2024
+2024-01-15 09:47:00,192,SES12,EDGE5,Online,0,32.39,4,Low,0.46,0.64,Idle,Idle,2024
+2024-01-15 09:47:10,173,SES13,EDGE4,Classroom,1,47.67,0,Low,0.96,0.09,Cheating,Cheating,2024
+2024-01-15 09:47:20,191,SES19,EDGE1,Lab,1,48.07,7,Medium,0.65,0.5,Idle,Idle,2024
+2024-01-15 09:47:30,165,SES17,EDGE9,Online,0,37.96,3,High,0.75,0.73,Cheating,Cheating,2024
+2024-01-15 09:47:40,183,SES16,EDGE2,Lab,1,44.76,2,High,0.36,0.56,Cheating,Cheating,2024
+2024-01-15 09:47:50,183,SES42,EDGE3,Library,1,45.05,5,Low,0.17,0.79,Cheating,Cheating,2024
+2024-01-15 09:48:00,106,SES11,EDGE4,Online,0,51.14,4,Medium,0.62,0.24,Idle,Idle,2024
+2024-01-15 09:48:10,196,SES20,EDGE6,Lab,0,17.58,4,Low,0.83,0.91,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:48:20,159,SES6,EDGE5,Library,0,1.8,5,Medium,0.51,0.46,Cheating,Cheating,2024
+2024-01-15 09:48:30,101,SES40,EDGE7,Library,1,13.67,6,Low,0.55,0.63,Cheating,Cheating,2024
+2024-01-15 09:48:40,181,SES30,EDGE9,Online,1,10.35,5,High,0.83,0.27,Cheating,Cheating,2024
+2024-01-15 09:48:50,109,SES33,EDGE7,Library,1,24.04,1,High,0.63,0.7,Attentive,Attentive,2024
+2024-01-15 09:49:00,101,SES26,EDGE6,Online,0,18.32,5,High,0.31,0.2,Distracted,Distracted,2024
+2024-01-15 09:49:10,148,SES24,EDGE5,Classroom,0,17.57,4,Medium,0.12,0.4,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:49:20,151,SES2,EDGE9,Library,1,34.0,1,Low,0.55,0.63,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:49:30,138,SES1,EDGE5,Classroom,0,44.43,9,Low,0.75,0.14,Collaborative,Collaborative,2024
+2024-01-15 09:49:40,106,SES3,EDGE2,Lab,0,51.72,9,High,0.35,0.03,Attentive,Attentive,2024
+2024-01-15 09:49:50,137,SES47,EDGE2,Online,1,33.71,9,High,0.95,0.6,Distracted,Distracted,2024
+2024-01-15 09:50:00,195,SES40,EDGE1,Library,0,46.25,2,Low,0.22,0.4,Cheating,Cheating,2024
+2024-01-15 09:50:10,149,SES10,EDGE1,Lab,0,9.28,6,Medium,0.74,0.25,Idle,Idle,2024
+2024-01-15 09:50:20,102,SES25,EDGE2,Library,0,27.05,5,Medium,0.34,0.51,Cheating,Cheating,2024
+2024-01-15 09:50:30,152,SES3,EDGE9,Online,1,48.59,1,High,0.76,0.39,Collaborative,Collaborative,2024
+2024-01-15 09:50:40,109,SES11,EDGE2,Library,0,10.63,6,High,0.55,0.32,Cheating,Cheating,2024
+2024-01-15 09:50:50,151,SES47,EDGE1,Lab,1,14.86,6,Low,0.72,0.75,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:51:00,156,SES12,EDGE7,Online,1,29.21,3,High,0.5,0.99,Distracted,Distracted,2024
+2024-01-15 09:51:10,113,SES10,EDGE2,Lab,1,52.99,4,High,0.27,0.04,Distracted,Distracted,2024
+2024-01-15 09:51:20,180,SES13,EDGE1,Lab,0,32.84,9,Medium,0.3,0.05,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:51:30,173,SES11,EDGE6,Classroom,1,35.04,6,Medium,0.78,0.51,Collaborative,Collaborative,2024
+2024-01-15 09:51:40,100,SES23,EDGE9,Lab,1,8.81,5,High,0.15,0.01,Cheating,Cheating,2024
+2024-01-15 09:51:50,168,SES34,EDGE8,Lab,1,56.68,0,Low,0.79,0.27,Distracted,Distracted,2024
+2024-01-15 09:52:00,122,SES16,EDGE5,Online,1,12.04,5,Medium,0.01,0.26,Distracted,Distracted,2024
+2024-01-15 09:52:10,188,SES46,EDGE9,Classroom,0,41.66,0,Medium,0.44,0.66,Collaborative,Collaborative,2024
+2024-01-15 09:52:20,151,SES9,EDGE3,Classroom,1,6.88,6,Medium,0.66,0.16,Attentive,Attentive,2024
+2024-01-15 09:52:30,112,SES6,EDGE5,Online,1,48.32,0,Low,0.57,0.23,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:52:40,120,SES42,EDGE1,Library,0,58.0,1,Low,0.99,0.65,Distracted,Distracted,2024
+2024-01-15 09:52:50,164,SES26,EDGE1,Library,1,6.88,1,Medium,0.34,0.12,Idle,Idle,2024
+2024-01-15 09:53:00,121,SES16,EDGE7,Lab,1,13.26,9,Medium,0.35,0.77,Collaborative,Collaborative,2024
+2024-01-15 09:53:10,101,SES7,EDGE1,Library,1,45.22,1,Low,0.5,0.15,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:53:20,148,SES2,EDGE1,Library,1,9.66,5,Low,0.98,0.45,Distracted,Distracted,2024
+2024-01-15 09:53:30,131,SES24,EDGE9,Classroom,1,29.38,9,Low,0.38,0.39,Attentive,Attentive,2024
+2024-01-15 09:53:40,118,SES48,EDGE5,Library,1,32.1,3,Medium,0.18,0.3,Cheating,Cheating,2024
+2024-01-15 09:53:50,171,SES33,EDGE7,Lab,1,8.14,4,Medium,0.76,0.55,Attentive,Attentive,2024
+2024-01-15 09:54:00,162,SES26,EDGE4,Lab,1,45.01,2,Low,0.69,0.9,Attentive,Attentive,2024
+2024-01-15 09:54:10,186,SES48,EDGE2,Online,1,41.17,6,Medium,0.42,0.07,Idle,Idle,2024
+2024-01-15 09:54:20,183,SES33,EDGE8,Lab,0,32.56,0,Low,0.2,0.99,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:54:30,173,SES48,EDGE9,Online,1,27.88,7,High,0.42,0.02,Cheating,Cheating,2024
+2024-01-15 09:54:40,114,SES6,EDGE8,Lab,1,28.5,8,High,0.02,0.36,Idle,Idle,2024
+2024-01-15 09:54:50,177,SES29,EDGE5,Lab,0,36.98,3,Medium,0.15,0.87,Cheating,Cheating,2024
+2024-01-15 09:55:00,101,SES4,EDGE6,Classroom,0,5.32,5,Medium,0.01,0.92,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:55:10,135,SES3,EDGE6,Library,0,35.22,6,High,0.52,0.82,Attentive,Attentive,2024
+2024-01-15 09:55:20,157,SES32,EDGE9,Library,0,40.9,7,High,0.69,0.17,Attentive,Attentive,2024
+2024-01-15 09:55:30,133,SES46,EDGE8,Online,0,4.52,4,Medium,0.61,0.41,Cheating,Cheating,2024
+2024-01-15 09:55:40,112,SES35,EDGE1,Classroom,1,23.6,9,Medium,0.41,0.84,Collaborative,Collaborative,2024
+2024-01-15 09:55:50,173,SES15,EDGE1,Library,1,57.32,1,Low,0.64,0.39,Attentive,Attentive,2024
+2024-01-15 09:56:00,180,SES49,EDGE4,Classroom,1,8.3,0,High,0.95,0.36,Collaborative,Collaborative,2024
+2024-01-15 09:56:10,195,SES22,EDGE6,Lab,1,47.56,0,Low,0.34,0.37,Distracted,Distracted,2024
+2024-01-15 09:56:20,194,SES6,EDGE2,Library,0,55.28,3,High,0.36,0.15,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:56:30,150,SES20,EDGE1,Online,0,51.57,7,High,0.73,0.6,Collaborative,Collaborative,2024
+2024-01-15 09:56:40,172,SES3,EDGE7,Classroom,1,54.28,7,Low,0.58,0.11,Cheating,Cheating,2024
+2024-01-15 09:56:50,173,SES12,EDGE2,Lab,1,3.41,7,Low,0.73,0.5,Cheating,Cheating,2024
+2024-01-15 09:57:00,181,SES41,EDGE5,Library,1,36.91,5,High,0.56,0.36,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:57:10,112,SES17,EDGE9,Online,0,29.86,4,High,0.84,0.03,Collaborative,Collaborative,2024
+2024-01-15 09:57:20,115,SES37,EDGE6,Online,1,50.92,2,Low,0.71,0.15,Distracted,Distracted,2024
+2024-01-15 09:57:30,157,SES12,EDGE9,Classroom,0,28.51,2,High,0.37,0.73,Attentive,Attentive,2024
+2024-01-15 09:57:40,144,SES10,EDGE1,Library,0,49.83,5,Medium,0.22,0.61,Distracted,Distracted,2024
+2024-01-15 09:57:50,176,SES42,EDGE6,Lab,0,59.38,6,High,0.47,0.64,Needs Assistance,Needs Assistance,2024
+2024-01-15 09:58:00,154,SES20,EDGE5,Online,0,27.66,8,Low,0.51,0.13,Cheating,Cheating,2024
+2024-01-15 09:58:10,143,SES2,EDGE2,Library,1,34.51,4,Medium,0.14,0.05,Collaborative,Collaborative,2024
+2024-01-15 09:58:20,126,SES48,EDGE7,Library,0,16.92,8,Medium,0.84,0.19,Distracted,Distracted,2024
+2024-01-15 09:58:30,124,SES14,EDGE6,Lab,1,4.86,1,Medium,0.49,0.45,Attentive,Attentive,2024
+2024-01-15 09:58:40,164,SES18,EDGE9,Online,0,30.37,8,High,0.51,0.57,Attentive,Attentive,2024
+2024-01-15 09:58:50,141,SES45,EDGE1,Library,0,6.93,4,Medium,0.87,0.21,Cheating,Cheating,2024
+2024-01-15 09:59:00,128,SES3,EDGE1,Library,0,42.34,1,High,0.97,0.16,Attentive,Attentive,2024
+2024-01-15 09:59:10,139,SES28,EDGE9,Lab,0,52.69,5,Medium,0.6,0.12,Cheating,Cheating,2024
+2024-01-15 09:59:20,148,SES24,EDGE8,Online,1,6.73,9,Medium,0.77,0.42,Cheating,Cheating,2024
+2024-01-15 09:59:30,146,SES21,EDGE1,Classroom,1,11.8,6,High,0.24,0.84,Distracted,Distracted,2024
+2024-01-15 09:59:40,177,SES4,EDGE4,Library,0,19.6,7,Medium,0.1,0.14,Collaborative,Collaborative,2024
+2024-01-15 09:59:50,109,SES39,EDGE5,Library,0,55.85,5,Low,0.54,0.61,Attentive,Attentive,2024
+2024-01-15 10:00:00,152,SES47,EDGE1,Library,1,28.78,6,Medium,0.71,0.57,Collaborative,Collaborative,2024
+2024-01-15 10:00:10,151,SES6,EDGE1,Online,1,40.11,0,Low,0.05,0.99,Collaborative,Collaborative,2024
+2024-01-15 10:00:20,116,SES40,EDGE5,Classroom,1,24.93,6,Low,0.33,0.72,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:00:30,144,SES9,EDGE4,Lab,0,48.8,3,Medium,0.57,0.78,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:00:40,103,SES30,EDGE7,Library,1,48.97,4,Low,0.83,0.29,Collaborative,Collaborative,2024
+2024-01-15 10:00:50,120,SES17,EDGE7,Online,0,15.43,2,Medium,0.34,0.53,Cheating,Cheating,2024
+2024-01-15 10:01:00,100,SES49,EDGE3,Lab,0,14.16,5,High,0.17,0.22,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:01:10,177,SES7,EDGE6,Classroom,1,43.43,5,High,0.03,0.45,Idle,Idle,2024
+2024-01-15 10:01:20,197,SES11,EDGE2,Lab,0,13.58,9,Low,0.46,0.21,Distracted,Distracted,2024
+2024-01-15 10:01:30,132,SES42,EDGE6,Online,1,9.75,7,Medium,0.27,0.61,Idle,Idle,2024
+2024-01-15 10:01:40,148,SES33,EDGE4,Classroom,1,16.05,2,Low,0.66,0.55,Cheating,Cheating,2024
+2024-01-15 10:01:50,196,SES36,EDGE1,Library,1,21.93,7,High,0.18,0.01,Distracted,Distracted,2024
+2024-01-15 10:02:00,113,SES32,EDGE6,Online,0,33.34,8,High,0.21,0.55,Idle,Idle,2024
+2024-01-15 10:02:10,181,SES46,EDGE2,Lab,1,51.54,7,High,0.47,0.35,Attentive,Attentive,2024
+2024-01-15 10:02:20,155,SES16,EDGE1,Library,1,28.11,6,Medium,0.92,0.24,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:02:30,177,SES14,EDGE9,Lab,1,32.86,6,Medium,0.29,0.15,Cheating,Cheating,2024
+2024-01-15 10:02:40,118,SES34,EDGE5,Library,1,24.38,6,Low,0.48,0.1,Collaborative,Collaborative,2024
+2024-01-15 10:02:50,169,SES27,EDGE3,Lab,1,27.4,3,Low,0.16,0.78,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:03:00,153,SES31,EDGE1,Online,0,9.79,5,High,0.78,0.77,Collaborative,Collaborative,2024
+2024-01-15 10:03:10,187,SES28,EDGE8,Library,0,56.51,1,High,0.1,0.87,Collaborative,Collaborative,2024
+2024-01-15 10:03:20,146,SES10,EDGE3,Lab,1,22.85,7,High,0.09,0.34,Idle,Idle,2024
+2024-01-15 10:03:30,153,SES25,EDGE6,Lab,0,7.22,4,Low,0.93,0.3,Collaborative,Collaborative,2024
+2024-01-15 10:03:40,122,SES21,EDGE6,Online,1,41.61,1,High,0.27,0.88,Attentive,Attentive,2024
+2024-01-15 10:03:50,134,SES17,EDGE9,Classroom,0,22.06,0,High,0.65,0.06,Attentive,Attentive,2024
+2024-01-15 10:04:00,157,SES10,EDGE8,Lab,0,34.33,2,Medium,0.84,0.79,Attentive,Attentive,2024
+2024-01-15 10:04:10,123,SES47,EDGE4,Online,1,52.74,0,Low,0.18,0.1,Collaborative,Collaborative,2024
+2024-01-15 10:04:20,118,SES39,EDGE1,Library,0,59.47,0,Medium,0.97,0.6,Collaborative,Collaborative,2024
+2024-01-15 10:04:30,165,SES4,EDGE4,Classroom,0,45.31,6,Low,0.08,0.96,Idle,Idle,2024
+2024-01-15 10:04:40,106,SES36,EDGE1,Classroom,1,32.35,5,High,0.84,0.4,Collaborative,Collaborative,2024
+2024-01-15 10:04:50,184,SES10,EDGE3,Library,0,3.87,6,High,0.54,0.2,Attentive,Attentive,2024
+2024-01-15 10:05:00,132,SES35,EDGE9,Online,1,2.7,1,High,0.72,0.19,Cheating,Cheating,2024
+2024-01-15 10:05:10,124,SES27,EDGE5,Online,0,1.97,8,High,0.02,0.55,Collaborative,Collaborative,2024
+2024-01-15 10:05:20,168,SES23,EDGE7,Classroom,0,43.54,1,Low,0.0,0.56,Collaborative,Collaborative,2024
+2024-01-15 10:05:30,122,SES33,EDGE8,Lab,0,21.41,8,Medium,0.4,0.49,Cheating,Cheating,2024
+2024-01-15 10:05:40,145,SES3,EDGE5,Online,1,15.22,4,Medium,0.99,0.3,Cheating,Cheating,2024
+2024-01-15 10:05:50,124,SES24,EDGE2,Library,0,16.37,4,High,0.67,0.93,Idle,Idle,2024
+2024-01-15 10:06:00,189,SES22,EDGE6,Library,0,37.49,3,Low,0.41,0.59,Collaborative,Collaborative,2024
+2024-01-15 10:06:10,121,SES39,EDGE4,Online,0,33.14,7,Low,0.79,0.36,Cheating,Cheating,2024
+2024-01-15 10:06:20,161,SES40,EDGE6,Online,0,56.71,3,Medium,0.91,0.57,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:06:30,123,SES48,EDGE7,Online,0,44.71,5,High,0.43,0.41,Distracted,Distracted,2024
+2024-01-15 10:06:40,168,SES11,EDGE4,Classroom,1,52.15,7,Medium,0.59,0.75,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:06:50,184,SES48,EDGE4,Classroom,0,49.85,3,High,0.87,0.06,Distracted,Distracted,2024
+2024-01-15 10:07:00,103,SES33,EDGE5,Lab,0,29.05,0,Medium,0.28,0.5,Attentive,Attentive,2024
+2024-01-15 10:07:10,105,SES31,EDGE3,Online,0,20.95,4,Low,0.97,0.57,Collaborative,Collaborative,2024
+2024-01-15 10:07:20,112,SES4,EDGE9,Online,0,2.13,4,Low,0.31,0.49,Cheating,Cheating,2024
+2024-01-15 10:07:30,149,SES47,EDGE4,Library,0,22.78,3,Low,0.11,0.31,Cheating,Cheating,2024
+2024-01-15 10:07:40,186,SES26,EDGE1,Classroom,0,5.11,2,Medium,0.52,0.25,Collaborative,Collaborative,2024
+2024-01-15 10:07:50,126,SES6,EDGE7,Lab,0,43.45,8,Medium,0.58,0.64,Collaborative,Collaborative,2024
+2024-01-15 10:08:00,117,SES23,EDGE6,Library,1,31.04,6,Medium,0.61,0.81,Distracted,Distracted,2024
+2024-01-15 10:08:10,132,SES15,EDGE3,Library,1,30.28,4,High,0.04,0.06,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:08:20,137,SES35,EDGE2,Lab,1,6.87,4,Low,0.5,0.62,Attentive,Attentive,2024
+2024-01-15 10:08:30,155,SES24,EDGE2,Lab,0,1.06,7,Low,0.91,0.31,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:08:40,130,SES17,EDGE1,Classroom,0,18.95,5,Medium,0.75,0.74,Idle,Idle,2024
+2024-01-15 10:08:50,177,SES18,EDGE4,Classroom,0,59.02,3,Low,0.2,0.29,Attentive,Attentive,2024
+2024-01-15 10:09:00,135,SES6,EDGE8,Lab,1,25.78,9,Low,0.38,0.66,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:09:10,196,SES18,EDGE6,Library,1,24.1,4,Low,0.18,0.57,Collaborative,Collaborative,2024
+2024-01-15 10:09:20,138,SES37,EDGE1,Classroom,1,58.42,8,High,0.76,0.67,Cheating,Cheating,2024
+2024-01-15 10:09:30,157,SES36,EDGE4,Library,1,39.53,8,Low,0.32,0.57,Collaborative,Collaborative,2024
+2024-01-15 10:09:40,198,SES20,EDGE1,Classroom,1,16.96,1,Medium,0.8,0.23,Cheating,Cheating,2024
+2024-01-15 10:09:50,176,SES31,EDGE9,Lab,1,1.43,4,Medium,0.15,0.58,Attentive,Attentive,2024
+2024-01-15 10:10:00,184,SES21,EDGE8,Library,0,40.81,6,Low,0.78,0.23,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:10:10,199,SES30,EDGE7,Classroom,1,15.84,3,Low,0.88,0.35,Cheating,Cheating,2024
+2024-01-15 10:10:20,192,SES9,EDGE7,Classroom,1,55.59,1,High,0.75,0.33,Collaborative,Collaborative,2024
+2024-01-15 10:10:30,142,SES30,EDGE9,Online,1,43.37,1,High,0.68,0.86,Distracted,Distracted,2024
+2024-01-15 10:10:40,111,SES32,EDGE9,Library,0,33.59,0,Low,0.18,0.47,Idle,Idle,2024
+2024-01-15 10:10:50,110,SES32,EDGE8,Online,1,5.38,7,Medium,0.16,0.41,Idle,Idle,2024
+2024-01-15 10:11:00,166,SES43,EDGE3,Classroom,0,20.77,1,High,0.95,0.14,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:11:10,152,SES46,EDGE2,Lab,0,33.12,2,High,0.58,0.22,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:11:20,116,SES5,EDGE5,Classroom,1,20.56,7,Low,0.9,0.08,Attentive,Attentive,2024
+2024-01-15 10:11:30,170,SES27,EDGE8,Library,0,38.17,5,High,0.35,0.24,Attentive,Attentive,2024
+2024-01-15 10:11:40,165,SES10,EDGE5,Lab,1,17.24,6,Medium,0.86,0.47,Collaborative,Collaborative,2024
+2024-01-15 10:11:50,196,SES25,EDGE5,Online,0,9.62,5,High,0.69,0.78,Idle,Idle,2024
+2024-01-15 10:12:00,128,SES49,EDGE8,Library,0,35.88,1,Low,0.66,0.37,Cheating,Cheating,2024
+2024-01-15 10:12:10,137,SES17,EDGE1,Library,0,46.09,6,Medium,0.38,0.54,Idle,Idle,2024
+2024-01-15 10:12:20,187,SES24,EDGE1,Library,0,30.31,8,Low,0.75,0.78,Collaborative,Collaborative,2024
+2024-01-15 10:12:30,121,SES35,EDGE1,Library,1,53.34,6,Low,0.46,0.69,Collaborative,Collaborative,2024
+2024-01-15 10:12:40,166,SES13,EDGE9,Classroom,0,0.73,4,High,0.36,0.11,Attentive,Attentive,2024
+2024-01-15 10:12:50,112,SES37,EDGE9,Library,1,9.21,6,Low,0.71,0.64,Collaborative,Collaborative,2024
+2024-01-15 10:13:00,143,SES41,EDGE3,Library,1,49.86,9,Low,0.66,0.65,Collaborative,Collaborative,2024
+2024-01-15 10:13:10,137,SES3,EDGE5,Lab,1,12.28,3,Low,0.28,0.5,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:13:20,117,SES1,EDGE5,Classroom,1,41.77,5,High,0.26,0.31,Collaborative,Collaborative,2024
+2024-01-15 10:13:30,141,SES34,EDGE8,Lab,1,34.29,0,High,0.06,0.05,Cheating,Cheating,2024
+2024-01-15 10:13:40,112,SES48,EDGE4,Library,1,51.42,1,High,0.95,0.98,Attentive,Attentive,2024
+2024-01-15 10:13:50,100,SES33,EDGE5,Lab,1,42.53,5,Low,0.57,0.09,Collaborative,Collaborative,2024
+2024-01-15 10:14:00,194,SES19,EDGE5,Lab,1,22.5,8,Low,0.94,0.75,Collaborative,Collaborative,2024
+2024-01-15 10:14:10,152,SES47,EDGE7,Online,0,5.09,0,Medium,0.78,0.43,Attentive,Attentive,2024
+2024-01-15 10:14:20,193,SES34,EDGE9,Online,0,54.02,6,Low,0.32,0.9,Distracted,Distracted,2024
+2024-01-15 10:14:30,137,SES6,EDGE4,Classroom,0,3.75,5,Low,0.19,0.23,Cheating,Cheating,2024
+2024-01-15 10:14:40,174,SES10,EDGE4,Online,1,37.02,7,High,0.37,0.81,Distracted,Distracted,2024
+2024-01-15 10:14:50,108,SES4,EDGE9,Classroom,1,14.56,1,High,0.6,0.63,Collaborative,Collaborative,2024
+2024-01-15 10:15:00,133,SES7,EDGE9,Lab,0,15.71,3,Low,0.47,0.7,Idle,Idle,2024
+2024-01-15 10:15:10,158,SES21,EDGE3,Lab,1,48.63,4,Low,0.13,0.11,Collaborative,Collaborative,2024
+2024-01-15 10:15:20,152,SES45,EDGE2,Classroom,1,38.82,5,Medium,0.89,0.99,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:15:30,197,SES28,EDGE8,Online,0,12.01,3,Low,0.41,0.63,Attentive,Attentive,2024
+2024-01-15 10:15:40,148,SES20,EDGE9,Classroom,1,32.75,0,High,0.9,0.91,Collaborative,Collaborative,2024
+2024-01-15 10:15:50,183,SES11,EDGE6,Classroom,1,8.96,8,Medium,0.07,0.33,Collaborative,Collaborative,2024
+2024-01-15 10:16:00,190,SES20,EDGE1,Classroom,1,54.15,4,Medium,0.58,0.0,Attentive,Attentive,2024
+2024-01-15 10:16:10,141,SES22,EDGE1,Library,0,19.86,3,High,0.84,0.82,Cheating,Cheating,2024
+2024-01-15 10:16:20,171,SES14,EDGE2,Online,0,57.79,1,Low,0.33,0.68,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:16:30,169,SES22,EDGE8,Classroom,0,11.45,2,Low,0.73,0.09,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:16:40,166,SES1,EDGE1,Library,1,15.93,8,High,0.24,0.91,Cheating,Cheating,2024
+2024-01-15 10:16:50,151,SES20,EDGE9,Online,0,50.17,3,Low,0.65,0.51,Attentive,Attentive,2024
+2024-01-15 10:17:00,187,SES29,EDGE6,Online,0,30.12,2,Low,0.63,0.72,Distracted,Distracted,2024
+2024-01-15 10:17:10,136,SES43,EDGE2,Classroom,0,38.49,3,Medium,0.48,0.27,Cheating,Cheating,2024
+2024-01-15 10:17:20,111,SES28,EDGE5,Online,0,14.19,6,High,0.74,0.93,Attentive,Attentive,2024
+2024-01-15 10:17:30,160,SES44,EDGE2,Library,1,16.76,4,Medium,0.55,0.1,Collaborative,Collaborative,2024
+2024-01-15 10:17:40,116,SES47,EDGE5,Online,0,0.54,6,High,0.59,0.57,Cheating,Cheating,2024
+2024-01-15 10:17:50,197,SES47,EDGE5,Lab,0,46.45,4,Low,0.49,0.91,Distracted,Distracted,2024
+2024-01-15 10:18:00,185,SES2,EDGE4,Classroom,1,26.35,6,Low,0.96,0.73,Attentive,Attentive,2024
+2024-01-15 10:18:10,131,SES8,EDGE7,Lab,1,43.59,6,High,0.3,0.74,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:18:20,163,SES26,EDGE3,Classroom,1,37.64,9,Low,0.83,0.83,Distracted,Distracted,2024
+2024-01-15 10:18:30,172,SES46,EDGE8,Library,1,44.98,3,Medium,0.25,0.51,Attentive,Attentive,2024
+2024-01-15 10:18:40,194,SES13,EDGE3,Classroom,0,47.22,2,Low,0.4,0.15,Cheating,Cheating,2024
+2024-01-15 10:18:50,193,SES20,EDGE2,Lab,0,7.36,0,Medium,1.0,0.98,Cheating,Cheating,2024
+2024-01-15 10:19:00,152,SES34,EDGE1,Library,1,7.23,6,Medium,0.44,0.86,Idle,Idle,2024
+2024-01-15 10:19:10,184,SES1,EDGE3,Library,0,5.49,2,High,0.99,0.05,Attentive,Attentive,2024
+2024-01-15 10:19:20,122,SES31,EDGE8,Library,0,0.0,5,Medium,0.77,0.34,Collaborative,Collaborative,2024
+2024-01-15 10:19:30,143,SES7,EDGE2,Classroom,0,26.78,5,Low,0.54,0.34,Cheating,Cheating,2024
+2024-01-15 10:19:40,170,SES28,EDGE9,Classroom,0,4.29,2,Low,0.09,0.06,Idle,Idle,2024
+2024-01-15 10:19:50,155,SES37,EDGE1,Library,1,32.13,4,Medium,0.25,0.92,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:20:00,171,SES39,EDGE3,Library,1,17.27,8,High,0.75,0.24,Attentive,Attentive,2024
+2024-01-15 10:20:10,161,SES36,EDGE2,Lab,1,43.54,3,Medium,0.45,0.28,Idle,Idle,2024
+2024-01-15 10:20:20,108,SES34,EDGE2,Online,0,55.61,0,Low,0.56,0.91,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:20:30,168,SES42,EDGE6,Library,0,7.28,0,Medium,0.29,0.13,Attentive,Attentive,2024
+2024-01-15 10:20:40,137,SES44,EDGE2,Library,0,7.61,8,Medium,0.59,0.74,Idle,Idle,2024
+2024-01-15 10:20:50,196,SES22,EDGE3,Classroom,1,47.26,8,Medium,0.34,0.7,Cheating,Cheating,2024
+2024-01-15 10:21:00,196,SES39,EDGE6,Lab,1,44.95,3,High,0.31,0.75,Cheating,Cheating,2024
+2024-01-15 10:21:10,171,SES47,EDGE2,Library,0,11.55,8,High,0.74,0.89,Cheating,Cheating,2024
+2024-01-15 10:21:20,171,SES33,EDGE3,Lab,1,23.36,7,Low,0.54,0.09,Collaborative,Collaborative,2024
+2024-01-15 10:21:30,107,SES18,EDGE9,Lab,1,11.45,9,High,0.83,0.43,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:21:40,155,SES42,EDGE4,Library,0,15.38,5,High,0.82,0.62,Idle,Idle,2024
+2024-01-15 10:21:50,168,SES7,EDGE4,Lab,0,25.48,3,High,0.16,0.26,Attentive,Attentive,2024
+2024-01-15 10:22:00,189,SES12,EDGE1,Online,0,26.63,2,Medium,0.66,0.46,Attentive,Attentive,2024
+2024-01-15 10:22:10,125,SES49,EDGE1,Classroom,1,18.77,2,Low,0.88,0.54,Attentive,Attentive,2024
+2024-01-15 10:22:20,100,SES45,EDGE7,Lab,0,14.7,7,Medium,0.88,0.56,Attentive,Attentive,2024
+2024-01-15 10:22:30,180,SES13,EDGE5,Online,1,16.28,7,High,0.68,0.24,Collaborative,Collaborative,2024
+2024-01-15 10:22:40,164,SES32,EDGE5,Library,0,15.13,6,Low,0.27,0.58,Distracted,Distracted,2024
+2024-01-15 10:22:50,185,SES41,EDGE8,Online,1,14.13,7,High,0.09,0.44,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:23:00,154,SES34,EDGE1,Lab,1,29.34,8,High,0.61,0.67,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:23:10,142,SES32,EDGE7,Library,0,37.79,1,High,0.84,0.72,Distracted,Distracted,2024
+2024-01-15 10:23:20,104,SES46,EDGE6,Classroom,1,5.59,9,Medium,0.46,0.5,Attentive,Attentive,2024
+2024-01-15 10:23:30,100,SES14,EDGE4,Library,1,25.91,6,Medium,0.48,0.36,Idle,Idle,2024
+2024-01-15 10:23:40,181,SES15,EDGE1,Classroom,1,26.33,3,High,0.51,0.25,Distracted,Distracted,2024
+2024-01-15 10:23:50,164,SES22,EDGE6,Classroom,0,29.49,9,Low,0.44,0.09,Cheating,Cheating,2024
+2024-01-15 10:24:00,122,SES26,EDGE7,Library,0,2.8,6,High,0.74,0.49,Cheating,Cheating,2024
+2024-01-15 10:24:10,140,SES29,EDGE5,Library,1,31.19,1,High,0.77,0.9,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:24:20,117,SES19,EDGE4,Library,1,54.76,5,Low,0.46,0.0,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:24:30,127,SES32,EDGE3,Classroom,1,38.39,5,Medium,0.5,0.97,Idle,Idle,2024
+2024-01-15 10:24:40,192,SES28,EDGE6,Lab,1,8.07,6,Medium,0.39,0.85,Cheating,Cheating,2024
+2024-01-15 10:24:50,187,SES11,EDGE8,Library,0,11.48,5,High,0.17,0.02,Cheating,Cheating,2024
+2024-01-15 10:25:00,184,SES44,EDGE4,Classroom,0,45.69,6,High,0.27,0.24,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:25:10,107,SES38,EDGE2,Online,1,31.38,6,Medium,0.37,0.66,Attentive,Attentive,2024
+2024-01-15 10:25:20,144,SES45,EDGE2,Library,0,7.48,6,Low,0.09,0.02,Idle,Idle,2024
+2024-01-15 10:25:30,197,SES48,EDGE5,Library,1,13.65,4,High,0.39,0.55,Distracted,Distracted,2024
+2024-01-15 10:25:40,134,SES45,EDGE1,Library,0,9.41,7,Low,0.33,0.07,Cheating,Cheating,2024
+2024-01-15 10:25:50,136,SES17,EDGE4,Library,1,0.73,7,Medium,0.61,0.48,Distracted,Distracted,2024
+2024-01-15 10:26:00,103,SES33,EDGE8,Lab,1,40.63,3,Low,0.13,0.0,Distracted,Distracted,2024
+2024-01-15 10:26:10,146,SES11,EDGE4,Lab,0,19.67,6,Low,0.57,0.93,Idle,Idle,2024
+2024-01-15 10:26:20,141,SES29,EDGE5,Library,0,15.37,6,Low,0.98,0.95,Idle,Idle,2024
+2024-01-15 10:26:30,177,SES37,EDGE6,Lab,0,44.47,1,Medium,0.48,1.0,Idle,Idle,2024
+2024-01-15 10:26:40,180,SES3,EDGE7,Library,1,37.8,6,Low,0.45,0.05,Collaborative,Collaborative,2024
+2024-01-15 10:26:50,193,SES43,EDGE1,Lab,1,24.63,2,High,0.17,0.45,Cheating,Cheating,2024
+2024-01-15 10:27:00,179,SES1,EDGE7,Online,1,6.47,2,High,0.22,0.83,Distracted,Distracted,2024
+2024-01-15 10:27:10,160,SES5,EDGE4,Classroom,1,53.72,3,High,0.17,0.07,Attentive,Attentive,2024
+2024-01-15 10:27:20,124,SES42,EDGE5,Classroom,1,18.28,7,High,0.11,0.66,Collaborative,Collaborative,2024
+2024-01-15 10:27:30,117,SES12,EDGE9,Online,1,27.58,3,Medium,0.35,0.03,Collaborative,Collaborative,2024
+2024-01-15 10:27:40,135,SES28,EDGE7,Classroom,0,32.36,2,High,0.36,0.46,Idle,Idle,2024
+2024-01-15 10:27:50,141,SES31,EDGE6,Online,1,4.62,1,Low,0.98,0.83,Idle,Idle,2024
+2024-01-15 10:28:00,172,SES1,EDGE4,Lab,0,59.0,9,High,0.24,0.64,Idle,Idle,2024
+2024-01-15 10:28:10,142,SES9,EDGE3,Online,0,36.01,9,Low,0.38,0.55,Attentive,Attentive,2024
+2024-01-15 10:28:20,143,SES33,EDGE7,Lab,1,7.56,0,Medium,0.94,0.55,Collaborative,Collaborative,2024
+2024-01-15 10:28:30,114,SES48,EDGE1,Library,0,50.15,1,High,0.07,0.6,Attentive,Attentive,2024
+2024-01-15 10:28:40,161,SES11,EDGE7,Online,0,14.92,3,High,0.64,0.95,Attentive,Attentive,2024
+2024-01-15 10:28:50,145,SES36,EDGE7,Lab,0,27.38,4,High,0.69,0.44,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:29:00,107,SES7,EDGE1,Lab,1,59.92,4,Medium,0.73,0.02,Idle,Idle,2024
+2024-01-15 10:29:10,116,SES8,EDGE3,Classroom,0,59.12,9,High,0.27,0.68,Distracted,Distracted,2024
+2024-01-15 10:29:20,130,SES43,EDGE3,Classroom,1,27.71,2,High,0.75,0.07,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:29:30,146,SES6,EDGE7,Online,1,1.32,6,High,0.42,0.95,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:29:40,131,SES40,EDGE6,Lab,0,32.02,4,Low,0.33,0.9,Attentive,Attentive,2024
+2024-01-15 10:29:50,117,SES13,EDGE9,Lab,0,45.19,8,Low,0.41,0.2,Collaborative,Collaborative,2024
+2024-01-15 10:30:00,197,SES12,EDGE2,Classroom,1,52.42,3,Medium,0.03,0.98,Collaborative,Collaborative,2024
+2024-01-15 10:30:10,145,SES16,EDGE3,Classroom,1,38.91,6,Medium,0.99,1.0,Collaborative,Collaborative,2024
+2024-01-15 10:30:20,114,SES12,EDGE5,Classroom,0,36.76,8,High,0.14,0.14,Idle,Idle,2024
+2024-01-15 10:30:30,157,SES47,EDGE9,Classroom,0,2.55,2,Medium,0.68,0.55,Idle,Idle,2024
+2024-01-15 10:30:40,187,SES32,EDGE7,Online,0,52.92,5,Medium,0.1,0.23,Cheating,Cheating,2024
+2024-01-15 10:30:50,191,SES22,EDGE3,Classroom,1,23.79,7,Medium,0.92,0.56,Distracted,Distracted,2024
+2024-01-15 10:31:00,130,SES11,EDGE4,Lab,0,35.95,7,Low,0.77,0.64,Cheating,Cheating,2024
+2024-01-15 10:31:10,193,SES22,EDGE9,Online,1,48.15,6,High,0.15,0.5,Cheating,Cheating,2024
+2024-01-15 10:31:20,158,SES10,EDGE9,Classroom,1,45.75,7,Low,1.0,0.26,Attentive,Attentive,2024
+2024-01-15 10:31:30,199,SES7,EDGE4,Lab,0,53.75,7,Low,0.44,0.73,Attentive,Attentive,2024
+2024-01-15 10:31:40,190,SES46,EDGE8,Classroom,1,49.53,9,High,0.06,0.85,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:31:50,173,SES46,EDGE4,Library,0,5.13,6,Low,0.28,0.87,Attentive,Attentive,2024
+2024-01-15 10:32:00,144,SES47,EDGE1,Online,0,51.57,3,Medium,0.24,0.5,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:32:10,104,SES17,EDGE8,Lab,0,25.91,2,Low,0.35,0.61,Idle,Idle,2024
+2024-01-15 10:32:20,114,SES34,EDGE8,Online,0,40.65,4,High,0.92,0.84,Attentive,Attentive,2024
+2024-01-15 10:32:30,184,SES23,EDGE1,Lab,1,17.44,8,Low,0.32,0.09,Idle,Idle,2024
+2024-01-15 10:32:40,108,SES4,EDGE2,Online,1,16.3,8,Low,0.81,0.22,Cheating,Cheating,2024
+2024-01-15 10:32:50,159,SES36,EDGE1,Online,0,42.46,1,Medium,0.21,0.75,Idle,Idle,2024
+2024-01-15 10:33:00,137,SES22,EDGE7,Lab,1,44.95,5,Low,0.7,0.32,Attentive,Attentive,2024
+2024-01-15 10:33:10,182,SES36,EDGE7,Classroom,1,7.59,9,Low,0.6,0.79,Attentive,Attentive,2024
+2024-01-15 10:33:20,165,SES12,EDGE7,Classroom,1,38.97,4,Low,0.78,0.27,Attentive,Attentive,2024
+2024-01-15 10:33:30,171,SES3,EDGE2,Lab,1,34.1,3,Medium,0.9,0.91,Attentive,Attentive,2024
+2024-01-15 10:33:40,119,SES21,EDGE1,Online,1,32.32,4,Low,0.77,0.86,Cheating,Cheating,2024
+2024-01-15 10:33:50,116,SES39,EDGE4,Lab,0,56.3,0,High,0.6,0.14,Collaborative,Collaborative,2024
+2024-01-15 10:34:00,109,SES7,EDGE1,Library,0,42.61,6,Low,0.5,0.65,Collaborative,Collaborative,2024
+2024-01-15 10:34:10,135,SES47,EDGE7,Online,1,53.61,1,Low,0.81,0.67,Cheating,Cheating,2024
+2024-01-15 10:34:20,173,SES37,EDGE7,Classroom,0,1.46,2,High,0.73,0.34,Distracted,Distracted,2024
+2024-01-15 10:34:30,150,SES39,EDGE7,Online,1,51.18,0,Low,0.89,0.28,Idle,Idle,2024
+2024-01-15 10:34:40,108,SES37,EDGE7,Classroom,1,22.29,3,High,0.32,0.07,Distracted,Distracted,2024
+2024-01-15 10:34:50,148,SES32,EDGE9,Library,0,38.74,3,High,0.19,0.16,Idle,Idle,2024
+2024-01-15 10:35:00,191,SES28,EDGE8,Library,1,55.94,8,Medium,0.81,0.31,Idle,Idle,2024
+2024-01-15 10:35:10,197,SES24,EDGE5,Lab,0,54.87,2,High,0.17,0.43,Distracted,Distracted,2024
+2024-01-15 10:35:20,111,SES15,EDGE6,Lab,1,0.06,7,High,0.97,0.72,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:35:30,130,SES33,EDGE4,Lab,0,13.01,8,Medium,0.85,0.01,Idle,Idle,2024
+2024-01-15 10:35:40,103,SES35,EDGE9,Lab,0,24.81,3,Low,0.52,0.76,Idle,Idle,2024
+2024-01-15 10:35:50,126,SES31,EDGE4,Lab,1,52.47,2,Medium,0.48,0.75,Cheating,Cheating,2024
+2024-01-15 10:36:00,109,SES12,EDGE8,Lab,0,0.02,7,Medium,0.2,0.61,Distracted,Distracted,2024
+2024-01-15 10:36:10,117,SES12,EDGE7,Lab,0,35.82,6,Low,0.86,0.65,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:36:20,112,SES12,EDGE3,Lab,1,58.71,3,High,0.4,0.62,Distracted,Distracted,2024
+2024-01-15 10:36:30,168,SES48,EDGE9,Library,1,8.23,1,High,0.72,0.97,Idle,Idle,2024
+2024-01-15 10:36:40,168,SES18,EDGE4,Classroom,1,27.29,3,Medium,0.27,0.23,Distracted,Distracted,2024
+2024-01-15 10:36:50,111,SES10,EDGE8,Online,0,5.32,8,High,0.33,0.19,Collaborative,Collaborative,2024
+2024-01-15 10:37:00,137,SES47,EDGE5,Online,1,9.34,4,High,0.32,0.47,Attentive,Attentive,2024
+2024-01-15 10:37:10,136,SES2,EDGE7,Online,0,12.27,7,Low,0.36,0.9,Idle,Idle,2024
+2024-01-15 10:37:20,167,SES36,EDGE3,Online,0,4.7,1,Medium,0.37,0.75,Attentive,Attentive,2024
+2024-01-15 10:37:30,104,SES2,EDGE5,Lab,1,47.9,7,Low,0.52,0.28,Cheating,Cheating,2024
+2024-01-15 10:37:40,102,SES31,EDGE8,Classroom,1,55.3,4,High,0.73,0.64,Cheating,Cheating,2024
+2024-01-15 10:37:50,142,SES27,EDGE5,Classroom,0,21.7,9,Medium,0.98,0.87,Distracted,Distracted,2024
+2024-01-15 10:38:00,113,SES13,EDGE8,Classroom,1,29.01,2,Medium,0.95,0.11,Distracted,Distracted,2024
+2024-01-15 10:38:10,197,SES49,EDGE3,Lab,0,36.74,5,Medium,0.26,0.04,Distracted,Distracted,2024
+2024-01-15 10:38:20,160,SES8,EDGE7,Lab,0,29.37,5,Low,0.59,0.24,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:38:30,185,SES14,EDGE2,Library,1,40.43,5,Low,0.6,0.2,Attentive,Attentive,2024
+2024-01-15 10:38:40,152,SES6,EDGE6,Lab,1,13.34,0,Low,0.62,0.92,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:38:50,181,SES22,EDGE6,Online,0,49.4,7,High,0.98,0.94,Attentive,Attentive,2024
+2024-01-15 10:39:00,168,SES25,EDGE9,Online,0,41.23,6,Medium,0.13,0.58,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:39:10,125,SES7,EDGE6,Classroom,1,25.61,6,High,0.08,0.55,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:39:20,127,SES43,EDGE2,Online,0,59.37,3,High,0.46,0.5,Distracted,Distracted,2024
+2024-01-15 10:39:30,195,SES21,EDGE6,Online,0,51.84,4,Medium,0.13,0.05,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:39:40,187,SES44,EDGE7,Library,0,28.07,8,Medium,0.58,0.3,Idle,Idle,2024
+2024-01-15 10:39:50,154,SES17,EDGE1,Classroom,0,22.66,4,High,0.89,0.7,Distracted,Distracted,2024
+2024-01-15 10:40:00,124,SES33,EDGE4,Library,0,19.73,4,Low,0.42,0.21,Collaborative,Collaborative,2024
+2024-01-15 10:40:10,161,SES35,EDGE5,Classroom,1,20.51,8,Low,0.3,0.35,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:40:20,154,SES26,EDGE5,Lab,0,54.66,6,Medium,0.02,0.99,Distracted,Distracted,2024
+2024-01-15 10:40:30,101,SES23,EDGE3,Classroom,0,37.27,2,Low,0.19,0.56,Collaborative,Collaborative,2024
+2024-01-15 10:40:40,107,SES39,EDGE1,Lab,1,29.84,1,High,0.63,0.75,Idle,Idle,2024
+2024-01-15 10:40:50,134,SES27,EDGE5,Lab,0,56.79,8,Low,0.49,0.6,Attentive,Attentive,2024
+2024-01-15 10:41:00,103,SES2,EDGE9,Lab,0,36.5,3,High,0.2,1.0,Distracted,Distracted,2024
+2024-01-15 10:41:10,144,SES31,EDGE5,Lab,1,18.99,2,High,0.93,0.36,Idle,Idle,2024
+2024-01-15 10:41:20,129,SES1,EDGE8,Online,0,30.62,5,Medium,0.26,0.32,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:41:30,167,SES13,EDGE7,Lab,0,16.27,3,High,0.97,0.32,Cheating,Cheating,2024
+2024-01-15 10:41:40,107,SES7,EDGE7,Online,0,59.44,1,Low,0.77,0.86,Idle,Idle,2024
+2024-01-15 10:41:50,158,SES18,EDGE1,Lab,1,0.59,5,Low,0.39,0.24,Cheating,Cheating,2024
+2024-01-15 10:42:00,106,SES27,EDGE3,Lab,0,19.76,4,Medium,0.6,0.59,Distracted,Distracted,2024
+2024-01-15 10:42:10,174,SES10,EDGE7,Lab,0,54.72,2,Medium,0.7,0.11,Cheating,Cheating,2024
+2024-01-15 10:42:20,147,SES10,EDGE7,Library,0,21.34,5,High,0.26,0.17,Distracted,Distracted,2024
+2024-01-15 10:42:30,135,SES19,EDGE6,Lab,0,3.78,8,High,0.77,0.73,Attentive,Attentive,2024
+2024-01-15 10:42:40,153,SES15,EDGE1,Lab,0,16.19,1,High,0.05,0.66,Cheating,Cheating,2024
+2024-01-15 10:42:50,135,SES18,EDGE5,Lab,0,53.6,6,Low,0.5,0.27,Cheating,Cheating,2024
+2024-01-15 10:43:00,164,SES3,EDGE2,Library,0,48.23,7,Medium,0.4,0.34,Collaborative,Collaborative,2024
+2024-01-15 10:43:10,182,SES32,EDGE8,Lab,0,58.91,2,Low,0.36,0.09,Attentive,Attentive,2024
+2024-01-15 10:43:20,176,SES2,EDGE4,Classroom,1,52.29,3,Low,0.39,0.06,Distracted,Distracted,2024
+2024-01-15 10:43:30,182,SES29,EDGE8,Library,1,53.12,4,Medium,0.91,0.17,Attentive,Attentive,2024
+2024-01-15 10:43:40,166,SES18,EDGE6,Library,1,42.95,0,Medium,0.36,0.17,Distracted,Distracted,2024
+2024-01-15 10:43:50,126,SES20,EDGE6,Library,0,49.38,2,Low,0.28,0.16,Idle,Idle,2024
+2024-01-15 10:44:00,165,SES16,EDGE7,Library,0,36.23,4,Medium,0.13,1.0,Collaborative,Collaborative,2024
+2024-01-15 10:44:10,156,SES45,EDGE8,Library,0,10.88,5,Medium,0.08,0.04,Collaborative,Collaborative,2024
+2024-01-15 10:44:20,184,SES10,EDGE3,Library,1,16.1,7,Low,0.92,0.36,Collaborative,Collaborative,2024
+2024-01-15 10:44:30,166,SES39,EDGE8,Library,0,45.8,2,Medium,0.24,0.09,Collaborative,Collaborative,2024
+2024-01-15 10:44:40,180,SES41,EDGE4,Lab,1,40.12,3,High,0.42,0.34,Attentive,Attentive,2024
+2024-01-15 10:44:50,112,SES20,EDGE1,Library,0,29.56,4,Low,0.88,0.05,Cheating,Cheating,2024
+2024-01-15 10:45:00,111,SES15,EDGE6,Online,1,44.69,6,High,0.48,0.74,Attentive,Attentive,2024
+2024-01-15 10:45:10,169,SES43,EDGE3,Online,1,13.82,9,Medium,0.03,0.14,Idle,Idle,2024
+2024-01-15 10:45:20,155,SES41,EDGE7,Online,0,58.33,1,Low,0.24,0.33,Distracted,Distracted,2024
+2024-01-15 10:45:30,177,SES17,EDGE2,Library,0,6.76,5,Low,0.02,0.22,Cheating,Cheating,2024
+2024-01-15 10:45:40,139,SES39,EDGE6,Online,1,43.45,8,Low,0.07,0.81,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:45:50,182,SES16,EDGE6,Lab,1,12.11,5,Medium,0.1,0.51,Distracted,Distracted,2024
+2024-01-15 10:46:00,121,SES40,EDGE7,Classroom,0,18.29,6,Low,0.74,0.79,Cheating,Cheating,2024
+2024-01-15 10:46:10,158,SES17,EDGE4,Library,0,53.73,2,Low,0.97,0.78,Idle,Idle,2024
+2024-01-15 10:46:20,115,SES16,EDGE2,Library,1,6.95,7,Low,0.71,0.57,Collaborative,Collaborative,2024
+2024-01-15 10:46:30,160,SES11,EDGE2,Lab,1,4.21,7,Low,0.69,0.03,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:46:40,171,SES36,EDGE9,Lab,1,30.43,4,High,0.8,0.08,Distracted,Distracted,2024
+2024-01-15 10:46:50,113,SES29,EDGE7,Lab,0,33.86,9,Medium,0.73,0.41,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:47:00,113,SES35,EDGE1,Library,0,51.86,7,Medium,0.78,0.64,Collaborative,Collaborative,2024
+2024-01-15 10:47:10,125,SES41,EDGE6,Online,1,53.07,8,High,0.58,0.82,Cheating,Cheating,2024
+2024-01-15 10:47:20,110,SES37,EDGE8,Library,1,42.11,3,Low,0.43,0.06,Cheating,Cheating,2024
+2024-01-15 10:47:30,141,SES20,EDGE9,Library,1,57.78,5,Low,0.61,0.19,Idle,Idle,2024
+2024-01-15 10:47:40,178,SES27,EDGE1,Library,1,40.1,2,High,0.19,0.33,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:47:50,196,SES25,EDGE9,Lab,1,58.65,4,High,0.6,0.88,Attentive,Attentive,2024
+2024-01-15 10:48:00,100,SES12,EDGE3,Online,1,36.07,9,High,0.23,0.49,Distracted,Distracted,2024
+2024-01-15 10:48:10,124,SES16,EDGE8,Library,0,58.4,5,Low,0.7,0.71,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:48:20,193,SES45,EDGE1,Classroom,1,33.28,1,Low,0.46,0.85,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:48:30,128,SES33,EDGE2,Library,0,35.02,1,Medium,0.22,0.91,Distracted,Distracted,2024
+2024-01-15 10:48:40,121,SES5,EDGE7,Online,1,22.02,9,High,0.19,0.22,Attentive,Attentive,2024
+2024-01-15 10:48:50,184,SES45,EDGE5,Library,0,36.49,4,High,0.81,0.53,Distracted,Distracted,2024
+2024-01-15 10:49:00,141,SES33,EDGE3,Online,0,29.25,2,High,0.87,0.28,Attentive,Attentive,2024
+2024-01-15 10:49:10,114,SES19,EDGE3,Library,0,13.24,3,Medium,0.24,0.35,Collaborative,Collaborative,2024
+2024-01-15 10:49:20,190,SES23,EDGE6,Lab,1,58.58,7,Low,0.92,0.08,Collaborative,Collaborative,2024
+2024-01-15 10:49:30,123,SES12,EDGE1,Lab,1,32.13,4,High,0.84,0.86,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:49:40,118,SES26,EDGE4,Lab,1,50.19,8,Medium,0.18,0.67,Distracted,Distracted,2024
+2024-01-15 10:49:50,195,SES21,EDGE7,Online,0,14.01,5,Low,0.39,0.83,Collaborative,Collaborative,2024
+2024-01-15 10:50:00,153,SES31,EDGE4,Online,0,26.41,8,Low,0.07,0.95,Idle,Idle,2024
+2024-01-15 10:50:10,130,SES18,EDGE6,Classroom,0,55.64,7,Medium,0.59,0.33,Cheating,Cheating,2024
+2024-01-15 10:50:20,168,SES23,EDGE4,Library,1,39.69,9,Medium,0.79,0.27,Idle,Idle,2024
+2024-01-15 10:50:30,142,SES19,EDGE5,Online,0,1.64,4,Medium,0.64,0.23,Idle,Idle,2024
+2024-01-15 10:50:40,126,SES27,EDGE9,Classroom,0,25.23,4,Low,0.81,0.52,Collaborative,Collaborative,2024
+2024-01-15 10:50:50,123,SES25,EDGE5,Lab,0,26.22,4,Medium,0.65,0.04,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:51:00,134,SES21,EDGE8,Library,1,26.83,0,Medium,0.33,0.5,Collaborative,Collaborative,2024
+2024-01-15 10:51:10,159,SES3,EDGE3,Library,1,53.34,0,High,0.28,0.37,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:51:20,186,SES9,EDGE4,Online,1,41.89,2,Low,0.29,0.12,Attentive,Attentive,2024
+2024-01-15 10:51:30,148,SES37,EDGE7,Library,0,40.07,1,Low,0.34,0.81,Collaborative,Collaborative,2024
+2024-01-15 10:51:40,106,SES33,EDGE9,Lab,1,54.95,3,Medium,0.15,0.72,Distracted,Distracted,2024
+2024-01-15 10:51:50,188,SES47,EDGE1,Lab,1,0.25,9,Low,0.27,0.6,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:52:00,172,SES37,EDGE7,Library,1,25.39,3,Medium,0.45,0.94,Attentive,Attentive,2024
+2024-01-15 10:52:10,110,SES20,EDGE4,Library,0,56.25,9,Medium,0.33,0.13,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:52:20,102,SES1,EDGE5,Lab,1,27.19,6,Medium,0.31,0.82,Distracted,Distracted,2024
+2024-01-15 10:52:30,143,SES44,EDGE4,Online,1,2.49,9,High,0.92,0.57,Attentive,Attentive,2024
+2024-01-15 10:52:40,102,SES22,EDGE4,Online,1,51.72,3,High,0.62,0.74,Distracted,Distracted,2024
+2024-01-15 10:52:50,116,SES47,EDGE8,Online,1,11.85,3,Low,0.11,0.36,Distracted,Distracted,2024
+2024-01-15 10:53:00,102,SES23,EDGE6,Classroom,1,14.69,3,Medium,0.62,0.21,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:53:10,139,SES46,EDGE7,Library,0,25.99,1,Low,0.19,0.77,Cheating,Cheating,2024
+2024-01-15 10:53:20,105,SES24,EDGE3,Classroom,0,51.21,1,High,0.91,0.41,Distracted,Distracted,2024
+2024-01-15 10:53:30,171,SES38,EDGE3,Classroom,1,36.57,9,Low,0.17,0.05,Idle,Idle,2024
+2024-01-15 10:53:40,118,SES40,EDGE8,Online,1,40.23,3,Low,0.26,0.24,Collaborative,Collaborative,2024
+2024-01-15 10:53:50,174,SES18,EDGE1,Online,1,58.13,1,High,0.63,0.62,Attentive,Attentive,2024
+2024-01-15 10:54:00,150,SES5,EDGE6,Classroom,1,7.7,4,Low,0.9,0.66,Cheating,Cheating,2024
+2024-01-15 10:54:10,148,SES48,EDGE5,Classroom,1,23.05,5,Low,0.2,0.05,Distracted,Distracted,2024
+2024-01-15 10:54:20,176,SES46,EDGE1,Online,0,36.38,9,High,0.34,0.85,Distracted,Distracted,2024
+2024-01-15 10:54:30,131,SES16,EDGE4,Lab,1,6.03,4,Medium,0.08,0.07,Idle,Idle,2024
+2024-01-15 10:54:40,145,SES43,EDGE9,Lab,0,24.3,0,Low,0.9,0.7,Attentive,Attentive,2024
+2024-01-15 10:54:50,111,SES33,EDGE2,Library,0,25.58,1,Medium,0.65,0.88,Collaborative,Collaborative,2024
+2024-01-15 10:55:00,136,SES9,EDGE9,Lab,0,54.66,8,High,0.5,0.29,Cheating,Cheating,2024
+2024-01-15 10:55:10,177,SES47,EDGE9,Library,0,49.14,7,High,0.99,0.94,Distracted,Distracted,2024
+2024-01-15 10:55:20,113,SES29,EDGE5,Online,1,42.6,1,Low,0.66,0.07,Collaborative,Collaborative,2024
+2024-01-15 10:55:30,187,SES37,EDGE8,Classroom,0,57.88,0,High,0.58,0.82,Cheating,Cheating,2024
+2024-01-15 10:55:40,150,SES43,EDGE8,Lab,1,24.35,6,Medium,0.95,0.25,Idle,Idle,2024
+2024-01-15 10:55:50,106,SES27,EDGE4,Classroom,1,59.32,6,Medium,0.37,0.15,Distracted,Distracted,2024
+2024-01-15 10:56:00,118,SES19,EDGE7,Classroom,0,17.56,3,Low,0.06,0.61,Cheating,Cheating,2024
+2024-01-15 10:56:10,111,SES29,EDGE7,Classroom,0,2.67,1,Medium,0.44,0.46,Idle,Idle,2024
+2024-01-15 10:56:20,113,SES29,EDGE3,Lab,0,13.42,7,High,0.35,0.37,Attentive,Attentive,2024
+2024-01-15 10:56:30,110,SES37,EDGE9,Library,0,51.65,3,Medium,0.68,0.09,Idle,Idle,2024
+2024-01-15 10:56:40,154,SES27,EDGE9,Classroom,0,57.94,3,Medium,0.85,0.32,Distracted,Distracted,2024
+2024-01-15 10:56:50,108,SES2,EDGE3,Online,1,15.14,5,Medium,0.65,0.36,Distracted,Distracted,2024
+2024-01-15 10:57:00,185,SES18,EDGE3,Lab,1,23.89,0,Low,0.29,0.98,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:57:10,130,SES23,EDGE2,Online,0,16.55,3,Medium,0.39,0.03,Collaborative,Collaborative,2024
+2024-01-15 10:57:20,122,SES35,EDGE9,Library,0,6.04,2,High,0.5,0.76,Idle,Idle,2024
+2024-01-15 10:57:30,156,SES12,EDGE9,Lab,1,52.07,3,Low,0.33,0.35,Idle,Idle,2024
+2024-01-15 10:57:40,121,SES9,EDGE8,Lab,0,50.27,6,High,0.33,0.73,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:57:50,145,SES29,EDGE9,Online,1,43.22,5,Low,0.14,0.49,Attentive,Attentive,2024
+2024-01-15 10:58:00,108,SES19,EDGE7,Classroom,0,32.29,9,Medium,0.31,0.97,Idle,Idle,2024
+2024-01-15 10:58:10,170,SES23,EDGE9,Classroom,1,37.43,3,Medium,0.08,0.4,Attentive,Attentive,2024
+2024-01-15 10:58:20,167,SES42,EDGE7,Online,1,3.89,0,Low,0.39,0.24,Attentive,Attentive,2024
+2024-01-15 10:58:30,171,SES34,EDGE9,Online,1,32.62,4,High,0.51,0.32,Attentive,Attentive,2024
+2024-01-15 10:58:40,149,SES4,EDGE4,Online,0,56.84,5,High,0.9,0.05,Idle,Idle,2024
+2024-01-15 10:58:50,137,SES45,EDGE9,Library,0,52.9,0,High,0.41,0.91,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:59:00,145,SES13,EDGE7,Library,0,31.86,8,High,0.55,0.26,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:59:10,170,SES5,EDGE8,Online,1,6.56,6,High,0.0,0.62,Idle,Idle,2024
+2024-01-15 10:59:20,167,SES30,EDGE3,Lab,0,0.28,5,Medium,0.75,0.23,Cheating,Cheating,2024
+2024-01-15 10:59:30,141,SES13,EDGE7,Lab,1,28.31,5,Medium,0.45,0.04,Distracted,Distracted,2024
+2024-01-15 10:59:40,177,SES22,EDGE5,Lab,0,45.82,2,Low,0.9,0.56,Needs Assistance,Needs Assistance,2024
+2024-01-15 10:59:50,192,SES23,EDGE9,Classroom,0,53.72,2,Low,0.29,0.74,Distracted,Distracted,2024
+2024-01-15 11:00:00,135,SES31,EDGE6,Library,0,2.51,3,Low,0.29,0.87,Distracted,Distracted,2024
+2024-01-15 11:00:10,173,SES47,EDGE3,Lab,1,59.42,0,High,0.48,0.65,Idle,Idle,2024
+2024-01-15 11:00:20,125,SES14,EDGE4,Lab,1,10.94,0,Low,0.01,0.12,Collaborative,Collaborative,2024
+2024-01-15 11:00:30,135,SES8,EDGE7,Lab,1,45.28,8,Low,0.13,0.5,Collaborative,Collaborative,2024
+2024-01-15 11:00:40,198,SES2,EDGE7,Lab,0,3.18,3,Low,0.62,0.32,Attentive,Attentive,2024
+2024-01-15 11:00:50,199,SES38,EDGE2,Library,0,54.75,4,Medium,0.37,0.13,Distracted,Distracted,2024
+2024-01-15 11:01:00,112,SES24,EDGE1,Online,1,38.86,0,Medium,0.1,0.21,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:01:10,129,SES46,EDGE4,Online,1,52.02,3,Medium,0.08,0.74,Cheating,Cheating,2024
+2024-01-15 11:01:20,173,SES28,EDGE4,Classroom,1,30.68,9,Medium,0.97,0.28,Attentive,Attentive,2024
+2024-01-15 11:01:30,150,SES32,EDGE1,Lab,0,36.51,2,Low,0.33,0.69,Distracted,Distracted,2024
+2024-01-15 11:01:40,129,SES21,EDGE5,Lab,1,35.06,1,High,0.91,0.65,Distracted,Distracted,2024
+2024-01-15 11:01:50,199,SES12,EDGE9,Library,1,31.96,0,High,0.67,0.41,Cheating,Cheating,2024
+2024-01-15 11:02:00,176,SES45,EDGE4,Online,0,27.97,0,Medium,0.34,0.76,Collaborative,Collaborative,2024
+2024-01-15 11:02:10,183,SES32,EDGE9,Lab,1,6.17,0,High,0.87,0.51,Idle,Idle,2024
+2024-01-15 11:02:20,127,SES4,EDGE5,Online,1,54.8,4,Medium,0.36,0.3,Idle,Idle,2024
+2024-01-15 11:02:30,111,SES41,EDGE8,Online,1,45.7,0,High,0.04,0.92,Attentive,Attentive,2024
+2024-01-15 11:02:40,145,SES22,EDGE4,Library,0,20.15,5,Medium,0.22,0.5,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:02:50,106,SES32,EDGE9,Library,1,17.59,8,Medium,0.89,0.62,Collaborative,Collaborative,2024
+2024-01-15 11:03:00,166,SES27,EDGE3,Library,0,44.21,9,High,0.75,0.53,Attentive,Attentive,2024
+2024-01-15 11:03:10,176,SES11,EDGE4,Lab,0,56.53,3,High,0.92,0.89,Attentive,Attentive,2024
+2024-01-15 11:03:20,114,SES32,EDGE6,Online,1,37.75,4,Medium,0.63,0.72,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:03:30,179,SES46,EDGE1,Library,0,58.99,2,Low,0.75,0.82,Cheating,Cheating,2024
+2024-01-15 11:03:40,105,SES23,EDGE8,Lab,1,30.95,7,Low,0.49,0.84,Distracted,Distracted,2024
+2024-01-15 11:03:50,140,SES44,EDGE1,Library,1,15.55,1,Low,0.14,0.4,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:04:00,175,SES39,EDGE4,Classroom,1,58.23,0,Medium,0.97,0.91,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:04:10,175,SES24,EDGE3,Classroom,0,15.08,9,Medium,0.42,0.14,Cheating,Cheating,2024
+2024-01-15 11:04:20,128,SES42,EDGE6,Classroom,0,55.22,6,Low,0.77,0.91,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:04:30,161,SES40,EDGE2,Classroom,0,36.17,1,Low,0.52,0.52,Idle,Idle,2024
+2024-01-15 11:04:40,186,SES42,EDGE1,Online,0,35.52,3,High,0.77,0.48,Collaborative,Collaborative,2024
+2024-01-15 11:04:50,157,SES5,EDGE5,Library,1,54.1,4,High,0.04,0.16,Cheating,Cheating,2024
+2024-01-15 11:05:00,181,SES24,EDGE9,Lab,1,4.32,0,Medium,0.48,0.3,Collaborative,Collaborative,2024
+2024-01-15 11:05:10,163,SES6,EDGE6,Classroom,0,13.37,8,Low,0.4,0.59,Cheating,Cheating,2024
+2024-01-15 11:05:20,140,SES16,EDGE5,Library,0,50.64,4,High,0.01,0.27,Collaborative,Collaborative,2024
+2024-01-15 11:05:30,101,SES5,EDGE7,Lab,0,14.48,7,Low,0.58,0.99,Cheating,Cheating,2024
+2024-01-15 11:05:40,137,SES42,EDGE8,Classroom,1,45.2,6,Low,0.02,0.54,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:05:50,138,SES15,EDGE7,Lab,0,33.06,5,High,0.23,0.26,Attentive,Attentive,2024
+2024-01-15 11:06:00,112,SES4,EDGE4,Lab,1,42.26,5,Low,0.28,0.71,Idle,Idle,2024
+2024-01-15 11:06:10,184,SES26,EDGE8,Online,0,4.36,3,Medium,0.02,0.25,Idle,Idle,2024
+2024-01-15 11:06:20,116,SES41,EDGE9,Lab,0,47.83,6,High,0.6,0.26,Cheating,Cheating,2024
+2024-01-15 11:06:30,134,SES29,EDGE8,Classroom,0,54.49,4,Low,0.67,0.19,Idle,Idle,2024
+2024-01-15 11:06:40,177,SES11,EDGE3,Classroom,0,45.34,2,High,0.48,0.64,Collaborative,Collaborative,2024
+2024-01-15 11:06:50,184,SES14,EDGE8,Lab,1,37.58,4,High,0.56,0.58,Distracted,Distracted,2024
+2024-01-15 11:07:00,104,SES15,EDGE9,Online,1,0.8,8,Low,0.18,0.28,Idle,Idle,2024
+2024-01-15 11:07:10,159,SES22,EDGE7,Library,1,14.06,1,High,0.06,0.49,Cheating,Cheating,2024
+2024-01-15 11:07:20,112,SES2,EDGE6,Library,1,10.52,4,High,0.01,0.44,Cheating,Cheating,2024
+2024-01-15 11:07:30,153,SES36,EDGE7,Classroom,0,58.33,3,High,0.02,0.78,Collaborative,Collaborative,2024
+2024-01-15 11:07:40,117,SES15,EDGE3,Classroom,0,36.21,2,Low,0.39,0.77,Cheating,Cheating,2024
+2024-01-15 11:07:50,190,SES47,EDGE9,Library,0,55.71,6,Low,0.43,0.81,Cheating,Cheating,2024
+2024-01-15 11:08:00,165,SES34,EDGE8,Classroom,1,13.6,0,Medium,0.59,0.22,Idle,Idle,2024
+2024-01-15 11:08:10,114,SES23,EDGE5,Classroom,1,27.44,1,Low,0.87,0.59,Attentive,Attentive,2024
+2024-01-15 11:08:20,171,SES34,EDGE2,Classroom,1,10.25,3,Medium,0.7,0.41,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:08:30,151,SES41,EDGE4,Library,1,3.83,2,Medium,0.91,0.64,Collaborative,Collaborative,2024
+2024-01-15 11:08:40,198,SES45,EDGE2,Classroom,0,46.32,7,Low,0.47,0.56,Collaborative,Collaborative,2024
+2024-01-15 11:08:50,166,SES7,EDGE9,Online,0,43.36,2,High,0.02,0.59,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:09:00,184,SES34,EDGE3,Classroom,0,41.98,6,Low,0.17,0.03,Distracted,Distracted,2024
+2024-01-15 11:09:10,113,SES24,EDGE4,Library,1,21.12,8,High,0.98,0.91,Distracted,Distracted,2024
+2024-01-15 11:09:20,173,SES12,EDGE5,Classroom,1,57.23,8,Low,0.13,0.11,Attentive,Attentive,2024
+2024-01-15 11:09:30,189,SES48,EDGE3,Online,0,45.99,9,Medium,0.2,0.69,Cheating,Cheating,2024
+2024-01-15 11:09:40,101,SES14,EDGE4,Library,1,50.11,6,Low,0.01,0.35,Attentive,Attentive,2024
+2024-01-15 11:09:50,186,SES45,EDGE6,Lab,0,11.11,9,Medium,0.34,0.58,Attentive,Attentive,2024
+2024-01-15 11:10:00,179,SES42,EDGE7,Classroom,0,10.36,8,Low,0.79,0.15,Collaborative,Collaborative,2024
+2024-01-15 11:10:10,110,SES34,EDGE3,Classroom,0,41.94,2,Low,0.12,0.7,Distracted,Distracted,2024
+2024-01-15 11:10:20,107,SES22,EDGE3,Classroom,0,39.12,0,Low,0.55,0.59,Cheating,Cheating,2024
+2024-01-15 11:10:30,174,SES11,EDGE2,Library,1,0.61,2,Low,0.78,0.78,Collaborative,Collaborative,2024
+2024-01-15 11:10:40,147,SES19,EDGE1,Lab,0,20.23,8,Low,0.81,0.28,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:10:50,118,SES32,EDGE3,Library,0,30.22,7,Low,0.8,0.1,Cheating,Cheating,2024
+2024-01-15 11:11:00,159,SES4,EDGE5,Online,0,33.14,6,Medium,0.49,0.8,Idle,Idle,2024
+2024-01-15 11:11:10,139,SES42,EDGE8,Lab,1,12.32,5,Low,0.96,0.34,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:11:20,152,SES48,EDGE5,Online,1,39.47,7,High,0.39,0.03,Idle,Idle,2024
+2024-01-15 11:11:30,160,SES23,EDGE8,Online,1,13.96,5,Low,0.66,0.69,Attentive,Attentive,2024
+2024-01-15 11:11:40,117,SES38,EDGE8,Library,0,19.93,3,Medium,0.45,0.9,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:11:50,163,SES14,EDGE7,Online,1,33.98,9,Medium,0.32,0.25,Idle,Idle,2024
+2024-01-15 11:12:00,132,SES40,EDGE7,Online,0,44.2,9,Medium,0.21,0.97,Idle,Idle,2024
+2024-01-15 11:12:10,197,SES34,EDGE4,Library,1,27.33,8,Medium,0.55,0.77,Attentive,Attentive,2024
+2024-01-15 11:12:20,141,SES25,EDGE9,Classroom,0,25.01,8,High,0.56,0.64,Attentive,Attentive,2024
+2024-01-15 11:12:30,196,SES15,EDGE8,Lab,1,55.4,6,Medium,0.75,0.08,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:12:40,102,SES29,EDGE2,Library,0,28.51,2,Medium,0.43,0.11,Attentive,Attentive,2024
+2024-01-15 11:12:50,166,SES7,EDGE9,Classroom,1,1.34,9,Low,0.31,0.43,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:13:00,128,SES8,EDGE1,Library,1,41.32,4,Low,0.56,0.96,Idle,Idle,2024
+2024-01-15 11:13:10,113,SES37,EDGE3,Library,1,34.33,5,Low,0.02,0.36,Attentive,Attentive,2024
+2024-01-15 11:13:20,130,SES36,EDGE9,Classroom,0,32.57,6,High,0.2,0.49,Cheating,Cheating,2024
+2024-01-15 11:13:30,157,SES26,EDGE6,Online,0,11.49,8,High,0.41,0.92,Idle,Idle,2024
+2024-01-15 11:13:40,174,SES2,EDGE3,Library,1,35.13,3,Medium,0.91,0.82,Attentive,Attentive,2024
+2024-01-15 11:13:50,176,SES5,EDGE1,Classroom,1,18.03,1,Low,0.51,0.23,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:14:00,165,SES40,EDGE6,Classroom,0,40.93,4,Medium,0.13,0.64,Idle,Idle,2024
+2024-01-15 11:14:10,188,SES18,EDGE1,Library,0,39.57,1,Medium,0.58,0.26,Collaborative,Collaborative,2024
+2024-01-15 11:14:20,172,SES21,EDGE2,Online,0,44.89,7,High,0.98,0.36,Cheating,Cheating,2024
+2024-01-15 11:14:30,177,SES5,EDGE8,Classroom,1,26.95,0,Low,0.56,0.67,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:14:40,168,SES36,EDGE5,Online,0,57.21,1,Medium,0.75,0.32,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:14:50,144,SES33,EDGE4,Online,0,53.4,9,Low,0.41,0.27,Idle,Idle,2024
+2024-01-15 11:15:00,160,SES17,EDGE1,Lab,1,29.67,0,High,0.14,0.8,Cheating,Cheating,2024
+2024-01-15 11:15:10,137,SES45,EDGE3,Library,0,22.34,8,Medium,0.48,0.2,Cheating,Cheating,2024
+2024-01-15 11:15:20,186,SES12,EDGE8,Classroom,0,1.89,0,Medium,0.2,0.11,Cheating,Cheating,2024
+2024-01-15 11:15:30,153,SES10,EDGE6,Library,0,47.99,4,Medium,0.49,0.62,Idle,Idle,2024
+2024-01-15 11:15:40,120,SES33,EDGE2,Classroom,0,35.11,0,High,0.73,0.49,Collaborative,Collaborative,2024
+2024-01-15 11:15:50,108,SES24,EDGE4,Online,0,53.29,5,Medium,0.78,0.26,Attentive,Attentive,2024
+2024-01-15 11:16:00,159,SES48,EDGE5,Lab,1,58.27,1,Low,0.24,0.9,Idle,Idle,2024
+2024-01-15 11:16:10,126,SES47,EDGE1,Online,1,10.51,8,High,0.18,0.09,Attentive,Attentive,2024
+2024-01-15 11:16:20,136,SES7,EDGE2,Library,1,39.12,2,Low,0.98,0.61,Collaborative,Collaborative,2024
+2024-01-15 11:16:30,114,SES29,EDGE8,Online,1,55.8,8,Medium,0.56,0.13,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:16:40,150,SES18,EDGE5,Library,1,11.11,2,Low,0.1,0.9,Distracted,Distracted,2024
+2024-01-15 11:16:50,179,SES4,EDGE2,Library,1,52.3,7,Low,0.42,0.53,Distracted,Distracted,2024
+2024-01-15 11:17:00,174,SES39,EDGE9,Classroom,1,33.73,5,Medium,0.81,0.31,Idle,Idle,2024
+2024-01-15 11:17:10,120,SES39,EDGE9,Lab,0,51.69,2,High,0.9,0.91,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:17:20,166,SES39,EDGE8,Library,0,45.52,8,Low,0.12,0.83,Attentive,Attentive,2024
+2024-01-15 11:17:30,134,SES15,EDGE8,Library,0,44.04,7,High,0.27,0.07,Distracted,Distracted,2024
+2024-01-15 11:17:40,124,SES35,EDGE2,Online,1,14.39,5,Medium,0.92,0.16,Idle,Idle,2024
+2024-01-15 11:17:50,152,SES37,EDGE3,Lab,1,35.79,1,Medium,0.67,0.65,Attentive,Attentive,2024
+2024-01-15 11:18:00,103,SES14,EDGE7,Library,1,29.37,1,High,0.97,0.75,Collaborative,Collaborative,2024
+2024-01-15 11:18:10,190,SES25,EDGE6,Library,1,59.19,0,Medium,0.21,0.36,Cheating,Cheating,2024
+2024-01-15 11:18:20,159,SES47,EDGE4,Classroom,0,14.0,3,High,0.06,0.71,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:18:30,129,SES30,EDGE9,Classroom,0,30.62,0,High,0.64,0.12,Idle,Idle,2024
+2024-01-15 11:18:40,148,SES41,EDGE6,Online,1,20.63,4,High,0.26,0.77,Cheating,Cheating,2024
+2024-01-15 11:18:50,100,SES30,EDGE6,Lab,1,58.93,9,Low,0.05,0.86,Idle,Idle,2024
+2024-01-15 11:19:00,143,SES40,EDGE8,Classroom,0,46.71,8,Medium,0.27,0.47,Idle,Idle,2024
+2024-01-15 11:19:10,171,SES23,EDGE3,Online,0,26.98,8,High,0.72,0.46,Idle,Idle,2024
+2024-01-15 11:19:20,124,SES39,EDGE5,Classroom,0,38.68,3,Low,0.44,0.98,Cheating,Cheating,2024
+2024-01-15 11:19:30,176,SES35,EDGE4,Classroom,1,2.98,3,High,0.33,0.66,Collaborative,Collaborative,2024
+2024-01-15 11:19:40,108,SES8,EDGE5,Lab,1,33.12,5,Low,0.98,0.29,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:19:50,101,SES3,EDGE7,Online,0,2.9,5,Low,0.75,0.2,Distracted,Distracted,2024
+2024-01-15 11:20:00,162,SES1,EDGE9,Classroom,1,46.8,0,Low,0.36,0.96,Distracted,Distracted,2024
+2024-01-15 11:20:10,180,SES1,EDGE5,Online,0,30.24,1,Medium,0.69,0.2,Collaborative,Collaborative,2024
+2024-01-15 11:20:20,189,SES12,EDGE6,Classroom,1,36.01,4,Medium,0.01,0.52,Idle,Idle,2024
+2024-01-15 11:20:30,181,SES33,EDGE6,Classroom,0,31.71,9,Medium,0.95,0.73,Attentive,Attentive,2024
+2024-01-15 11:20:40,119,SES1,EDGE4,Library,0,17.44,0,High,0.77,0.39,Cheating,Cheating,2024
+2024-01-15 11:20:50,151,SES21,EDGE6,Lab,1,35.26,4,Low,0.26,0.24,Idle,Idle,2024
+2024-01-15 11:21:00,159,SES28,EDGE2,Classroom,1,38.27,4,Medium,0.89,0.01,Attentive,Attentive,2024
+2024-01-15 11:21:10,146,SES42,EDGE4,Library,0,36.37,4,High,0.51,0.73,Collaborative,Collaborative,2024
+2024-01-15 11:21:20,115,SES36,EDGE2,Classroom,1,47.72,9,Low,0.3,0.32,Attentive,Attentive,2024
+2024-01-15 11:21:30,180,SES36,EDGE4,Classroom,1,18.5,1,Medium,1.0,0.78,Cheating,Cheating,2024
+2024-01-15 11:21:40,183,SES20,EDGE3,Classroom,1,25.01,5,Low,0.79,0.78,Idle,Idle,2024
+2024-01-15 11:21:50,138,SES12,EDGE5,Online,1,2.7,3,Low,0.9,0.39,Cheating,Cheating,2024
+2024-01-15 11:22:00,151,SES34,EDGE5,Library,1,36.57,8,Low,0.13,0.92,Distracted,Distracted,2024
+2024-01-15 11:22:10,177,SES37,EDGE4,Online,0,24.52,2,Medium,0.7,0.76,Collaborative,Collaborative,2024
+2024-01-15 11:22:20,184,SES3,EDGE5,Online,0,47.42,6,Low,0.53,0.57,Cheating,Cheating,2024
+2024-01-15 11:22:30,143,SES43,EDGE1,Online,1,39.29,2,High,0.19,0.51,Idle,Idle,2024
+2024-01-15 11:22:40,147,SES10,EDGE7,Library,0,21.46,4,Low,0.07,0.04,Attentive,Attentive,2024
+2024-01-15 11:22:50,192,SES41,EDGE4,Classroom,0,51.61,6,High,0.7,0.65,Distracted,Distracted,2024
+2024-01-15 11:23:00,111,SES16,EDGE4,Classroom,0,35.18,4,High,0.82,0.05,Attentive,Attentive,2024
+2024-01-15 11:23:10,110,SES1,EDGE2,Classroom,0,45.0,4,Medium,0.15,0.81,Attentive,Attentive,2024
+2024-01-15 11:23:20,180,SES19,EDGE2,Lab,0,28.99,8,High,0.17,0.36,Idle,Idle,2024
+2024-01-15 11:23:30,142,SES15,EDGE6,Library,0,29.38,2,Low,0.62,0.39,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:23:40,112,SES49,EDGE4,Classroom,1,8.29,5,Medium,0.92,0.38,Attentive,Attentive,2024
+2024-01-15 11:23:50,176,SES35,EDGE6,Classroom,1,35.62,0,Medium,0.91,0.68,Idle,Idle,2024
+2024-01-15 11:24:00,148,SES14,EDGE2,Online,1,14.35,6,High,0.81,0.97,Collaborative,Collaborative,2024
+2024-01-15 11:24:10,119,SES49,EDGE9,Lab,0,2.38,6,Low,0.97,0.99,Idle,Idle,2024
+2024-01-15 11:24:20,173,SES14,EDGE9,Classroom,0,57.17,2,High,0.93,0.49,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:24:30,164,SES27,EDGE5,Online,0,54.91,7,High,0.7,0.66,Cheating,Cheating,2024
+2024-01-15 11:24:40,194,SES39,EDGE4,Online,0,50.31,9,Medium,0.74,0.78,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:24:50,182,SES31,EDGE5,Classroom,1,50.1,4,High,0.45,0.5,Collaborative,Collaborative,2024
+2024-01-15 11:25:00,183,SES37,EDGE7,Online,0,19.94,2,Low,0.43,0.66,Idle,Idle,2024
+2024-01-15 11:25:10,179,SES48,EDGE1,Library,0,16.31,8,High,0.76,0.57,Cheating,Cheating,2024
+2024-01-15 11:25:20,177,SES9,EDGE3,Lab,1,47.83,8,Medium,0.85,0.47,Attentive,Attentive,2024
+2024-01-15 11:25:30,129,SES17,EDGE6,Lab,0,16.3,0,Low,0.59,0.73,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:25:40,118,SES2,EDGE5,Classroom,1,8.62,7,High,0.89,0.08,Collaborative,Collaborative,2024
+2024-01-15 11:25:50,167,SES41,EDGE7,Online,1,12.61,8,Medium,0.92,0.43,Idle,Idle,2024
+2024-01-15 11:26:00,169,SES22,EDGE1,Library,0,7.6,4,Medium,0.92,0.46,Idle,Idle,2024
+2024-01-15 11:26:10,151,SES48,EDGE3,Classroom,1,51.62,6,Medium,0.0,0.87,Collaborative,Collaborative,2024
+2024-01-15 11:26:20,102,SES21,EDGE3,Lab,0,57.38,6,High,0.53,0.33,Attentive,Attentive,2024
+2024-01-15 11:26:30,160,SES27,EDGE1,Library,0,54.63,0,Medium,0.51,0.42,Distracted,Distracted,2024
+2024-01-15 11:26:40,147,SES33,EDGE6,Classroom,1,51.72,9,Low,0.79,0.86,Distracted,Distracted,2024
+2024-01-15 11:26:50,183,SES4,EDGE4,Lab,0,23.12,6,Medium,0.38,0.06,Attentive,Attentive,2024
+2024-01-15 11:27:00,176,SES42,EDGE5,Online,1,26.54,1,High,0.97,0.9,Distracted,Distracted,2024
+2024-01-15 11:27:10,153,SES44,EDGE1,Lab,0,50.23,5,Low,0.2,0.02,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:27:20,126,SES9,EDGE4,Classroom,1,26.18,2,Low,0.84,0.09,Attentive,Attentive,2024
+2024-01-15 11:27:30,129,SES19,EDGE6,Library,1,18.46,1,Medium,0.17,0.64,Cheating,Cheating,2024
+2024-01-15 11:27:40,139,SES18,EDGE7,Library,0,20.95,8,Medium,0.6,0.78,Collaborative,Collaborative,2024
+2024-01-15 11:27:50,167,SES24,EDGE7,Classroom,0,24.62,3,Low,0.27,0.29,Idle,Idle,2024
+2024-01-15 11:28:00,150,SES45,EDGE7,Lab,0,57.83,1,High,0.17,0.12,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:28:10,128,SES10,EDGE3,Classroom,1,24.55,4,High,0.31,0.49,Attentive,Attentive,2024
+2024-01-15 11:28:20,109,SES33,EDGE2,Lab,1,2.85,0,Low,0.17,0.93,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:28:30,188,SES1,EDGE5,Classroom,1,15.08,9,Medium,0.44,0.18,Idle,Idle,2024
+2024-01-15 11:28:40,174,SES15,EDGE9,Classroom,0,6.96,0,Low,0.29,0.07,Idle,Idle,2024
+2024-01-15 11:28:50,159,SES13,EDGE8,Lab,1,39.47,2,High,0.95,0.48,Idle,Idle,2024
+2024-01-15 11:29:00,115,SES36,EDGE5,Classroom,1,44.54,5,Low,0.93,0.05,Distracted,Distracted,2024
+2024-01-15 11:29:10,125,SES37,EDGE4,Classroom,1,3.28,8,High,0.82,0.01,Collaborative,Collaborative,2024
+2024-01-15 11:29:20,119,SES45,EDGE2,Online,0,25.01,2,High,0.18,0.89,Idle,Idle,2024
+2024-01-15 11:29:30,114,SES36,EDGE1,Classroom,0,47.59,1,Medium,0.28,0.92,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:29:40,172,SES46,EDGE5,Lab,0,34.97,0,High,0.42,0.32,Attentive,Attentive,2024
+2024-01-15 11:29:50,144,SES5,EDGE5,Library,1,3.0,6,Low,0.76,0.85,Collaborative,Collaborative,2024
+2024-01-15 11:30:00,169,SES13,EDGE1,Library,0,39.05,0,High,0.12,0.94,Cheating,Cheating,2024
+2024-01-15 11:30:10,187,SES45,EDGE9,Classroom,1,15.18,3,Low,0.56,0.42,Cheating,Cheating,2024
+2024-01-15 11:30:20,132,SES35,EDGE4,Lab,1,51.29,3,High,0.5,0.13,Distracted,Distracted,2024
+2024-01-15 11:30:30,147,SES19,EDGE3,Online,0,42.65,1,Low,0.85,0.28,Cheating,Cheating,2024
+2024-01-15 11:30:40,137,SES3,EDGE6,Online,1,37.5,6,High,0.04,0.97,Attentive,Attentive,2024
+2024-01-15 11:30:50,152,SES9,EDGE5,Online,1,57.98,0,High,0.01,0.42,Idle,Idle,2024
+2024-01-15 11:31:00,144,SES22,EDGE7,Library,1,28.23,0,High,0.64,0.58,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:31:10,136,SES29,EDGE4,Library,0,49.98,5,High,0.33,0.42,Distracted,Distracted,2024
+2024-01-15 11:31:20,132,SES13,EDGE6,Classroom,1,23.4,0,High,0.91,0.88,Idle,Idle,2024
+2024-01-15 11:31:30,177,SES37,EDGE6,Lab,0,21.44,5,Low,0.92,0.17,Distracted,Distracted,2024
+2024-01-15 11:31:40,184,SES16,EDGE9,Classroom,1,53.72,8,Low,0.74,0.11,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:31:50,121,SES18,EDGE5,Library,1,19.98,0,Low,0.78,0.92,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:32:00,186,SES25,EDGE6,Online,1,36.32,6,Low,0.88,0.54,Attentive,Attentive,2024
+2024-01-15 11:32:10,141,SES48,EDGE5,Classroom,1,52.12,7,Low,0.06,0.25,Idle,Idle,2024
+2024-01-15 11:32:20,196,SES19,EDGE4,Online,0,10.51,6,High,0.91,0.39,Distracted,Distracted,2024
+2024-01-15 11:32:30,170,SES33,EDGE3,Online,0,7.85,0,High,0.21,0.49,Cheating,Cheating,2024
+2024-01-15 11:32:40,113,SES3,EDGE3,Classroom,0,3.77,9,High,0.15,0.2,Cheating,Cheating,2024
+2024-01-15 11:32:50,179,SES41,EDGE8,Library,0,24.38,4,High,0.74,0.68,Distracted,Distracted,2024
+2024-01-15 11:33:00,162,SES7,EDGE1,Classroom,1,53.38,6,Medium,0.45,0.67,Cheating,Cheating,2024
+2024-01-15 11:33:10,124,SES4,EDGE3,Classroom,1,1.42,1,Low,0.99,0.57,Idle,Idle,2024
+2024-01-15 11:33:20,108,SES13,EDGE2,Online,1,56.65,2,Medium,0.53,0.52,Attentive,Attentive,2024
+2024-01-15 11:33:30,194,SES44,EDGE8,Library,1,35.26,0,Medium,0.3,0.88,Distracted,Distracted,2024
+2024-01-15 11:33:40,132,SES28,EDGE5,Library,0,44.3,3,High,0.24,0.18,Idle,Idle,2024
+2024-01-15 11:33:50,160,SES16,EDGE2,Library,0,17.07,6,Medium,0.86,0.36,Collaborative,Collaborative,2024
+2024-01-15 11:34:00,109,SES43,EDGE8,Library,0,8.18,7,Low,0.82,0.81,Collaborative,Collaborative,2024
+2024-01-15 11:34:10,104,SES40,EDGE2,Classroom,0,57.93,9,High,0.59,0.22,Cheating,Cheating,2024
+2024-01-15 11:34:20,120,SES26,EDGE9,Library,0,50.93,3,Medium,0.43,0.68,Attentive,Attentive,2024
+2024-01-15 11:34:30,128,SES37,EDGE7,Classroom,1,42.89,7,Medium,0.99,0.63,Collaborative,Collaborative,2024
+2024-01-15 11:34:40,127,SES46,EDGE6,Library,0,55.02,6,Medium,0.66,0.25,Collaborative,Collaborative,2024
+2024-01-15 11:34:50,194,SES39,EDGE5,Online,0,58.54,3,Medium,0.33,0.42,Attentive,Attentive,2024
+2024-01-15 11:35:00,161,SES45,EDGE5,Library,0,39.96,8,Medium,0.3,0.45,Distracted,Distracted,2024
+2024-01-15 11:35:10,157,SES17,EDGE3,Online,1,21.41,7,Medium,0.76,0.23,Collaborative,Collaborative,2024
+2024-01-15 11:35:20,174,SES39,EDGE2,Library,0,37.51,6,Low,0.75,0.07,Attentive,Attentive,2024
+2024-01-15 11:35:30,121,SES20,EDGE1,Classroom,1,45.64,9,Medium,0.53,0.99,Collaborative,Collaborative,2024
+2024-01-15 11:35:40,187,SES4,EDGE9,Library,0,25.44,6,High,0.94,0.31,Idle,Idle,2024
+2024-01-15 11:35:50,140,SES29,EDGE5,Library,0,25.9,7,Low,0.5,0.81,Distracted,Distracted,2024
+2024-01-15 11:36:00,102,SES2,EDGE5,Classroom,1,26.19,5,Low,0.95,0.73,Idle,Idle,2024
+2024-01-15 11:36:10,198,SES49,EDGE5,Lab,0,50.92,5,Medium,0.08,0.44,Cheating,Cheating,2024
+2024-01-15 11:36:20,187,SES19,EDGE7,Library,0,16.73,2,Medium,0.95,0.82,Cheating,Cheating,2024
+2024-01-15 11:36:30,115,SES45,EDGE2,Online,1,46.61,6,Low,0.67,0.33,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:36:40,174,SES20,EDGE5,Lab,1,59.76,1,Low,0.22,0.51,Attentive,Attentive,2024
+2024-01-15 11:36:50,187,SES27,EDGE2,Lab,1,36.59,9,Low,0.33,0.98,Attentive,Attentive,2024
+2024-01-15 11:37:00,135,SES13,EDGE1,Classroom,0,0.98,7,Low,0.5,0.71,Distracted,Distracted,2024
+2024-01-15 11:37:10,193,SES37,EDGE1,Online,0,52.24,7,High,0.63,0.69,Idle,Idle,2024
+2024-01-15 11:37:20,139,SES6,EDGE3,Online,0,11.02,8,Low,0.06,0.86,Cheating,Cheating,2024
+2024-01-15 11:37:30,139,SES1,EDGE8,Library,1,21.37,6,Medium,0.75,0.13,Idle,Idle,2024
+2024-01-15 11:37:40,159,SES49,EDGE3,Library,0,12.67,8,High,0.72,0.02,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:37:50,194,SES13,EDGE5,Library,1,57.33,1,High,0.26,0.35,Cheating,Cheating,2024
+2024-01-15 11:38:00,163,SES2,EDGE1,Library,1,6.98,4,Low,0.25,0.64,Cheating,Cheating,2024
+2024-01-15 11:38:10,197,SES21,EDGE4,Online,1,45.99,1,Medium,0.17,0.35,Distracted,Distracted,2024
+2024-01-15 11:38:20,163,SES3,EDGE1,Lab,0,33.84,5,High,0.77,0.27,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:38:30,190,SES49,EDGE4,Classroom,1,18.23,4,High,0.75,0.35,Distracted,Distracted,2024
+2024-01-15 11:38:40,123,SES40,EDGE2,Classroom,1,45.76,0,High,0.79,0.88,Idle,Idle,2024
+2024-01-15 11:38:50,115,SES23,EDGE9,Lab,1,22.73,8,High,0.36,0.58,Cheating,Cheating,2024
+2024-01-15 11:39:00,147,SES30,EDGE2,Online,0,11.76,8,Medium,0.5,0.71,Cheating,Cheating,2024
+2024-01-15 11:39:10,187,SES22,EDGE7,Online,0,3.86,9,Medium,0.51,0.06,Idle,Idle,2024
+2024-01-15 11:39:20,121,SES11,EDGE4,Online,0,17.75,1,Medium,0.31,0.59,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:39:30,166,SES43,EDGE6,Library,1,44.32,9,Low,0.52,0.18,Distracted,Distracted,2024
+2024-01-15 11:39:40,176,SES45,EDGE8,Classroom,1,39.84,9,High,0.07,0.42,Attentive,Attentive,2024
+2024-01-15 11:39:50,172,SES28,EDGE6,Classroom,0,46.27,3,Low,0.9,0.14,Distracted,Distracted,2024
+2024-01-15 11:40:00,139,SES17,EDGE5,Library,1,19.99,6,High,0.92,0.88,Attentive,Attentive,2024
+2024-01-15 11:40:10,168,SES43,EDGE6,Online,0,32.68,4,Medium,0.92,0.36,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:40:20,125,SES15,EDGE4,Lab,1,27.54,8,Low,0.92,0.47,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:40:30,103,SES6,EDGE8,Online,1,26.02,5,Low,0.74,0.2,Distracted,Distracted,2024
+2024-01-15 11:40:40,116,SES49,EDGE6,Library,0,54.32,0,Low,0.01,0.79,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:40:50,131,SES11,EDGE4,Lab,1,31.04,8,High,0.62,0.93,Idle,Idle,2024
+2024-01-15 11:41:00,166,SES16,EDGE5,Online,0,11.27,7,Low,0.46,0.65,Idle,Idle,2024
+2024-01-15 11:41:10,128,SES29,EDGE1,Library,0,33.84,9,Low,0.79,0.3,Attentive,Attentive,2024
+2024-01-15 11:41:20,188,SES33,EDGE1,Classroom,0,5.95,6,Medium,0.53,0.07,Attentive,Attentive,2024
+2024-01-15 11:41:30,178,SES16,EDGE6,Classroom,0,6.25,8,Low,0.2,0.16,Attentive,Attentive,2024
+2024-01-15 11:41:40,150,SES48,EDGE1,Lab,1,49.14,5,High,0.26,0.85,Distracted,Distracted,2024
+2024-01-15 11:41:50,146,SES37,EDGE4,Lab,1,17.43,1,Low,0.17,0.11,Idle,Idle,2024
+2024-01-15 11:42:00,176,SES24,EDGE7,Library,0,27.03,5,Low,0.33,0.3,Distracted,Distracted,2024
+2024-01-15 11:42:10,135,SES28,EDGE7,Library,1,21.66,2,High,0.57,0.85,Collaborative,Collaborative,2024
+2024-01-15 11:42:20,143,SES34,EDGE7,Classroom,0,18.8,6,Medium,0.6,0.93,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:42:30,166,SES20,EDGE3,Classroom,0,56.51,5,High,0.12,0.49,Distracted,Distracted,2024
+2024-01-15 11:42:40,152,SES8,EDGE2,Classroom,1,53.2,9,Medium,0.24,0.68,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:42:50,101,SES37,EDGE3,Classroom,0,34.04,0,High,0.24,0.81,Collaborative,Collaborative,2024
+2024-01-15 11:43:00,143,SES20,EDGE5,Lab,0,20.24,3,Medium,0.41,0.68,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:43:10,108,SES20,EDGE5,Lab,1,43.41,6,High,0.07,0.3,Collaborative,Collaborative,2024
+2024-01-15 11:43:20,163,SES15,EDGE5,Classroom,1,11.22,9,Medium,0.07,0.88,Cheating,Cheating,2024
+2024-01-15 11:43:30,170,SES18,EDGE3,Library,1,47.85,7,Medium,0.32,0.59,Collaborative,Collaborative,2024
+2024-01-15 11:43:40,156,SES48,EDGE2,Classroom,1,38.03,0,Medium,0.34,0.85,Idle,Idle,2024
+2024-01-15 11:43:50,146,SES9,EDGE9,Classroom,0,17.64,7,Medium,0.86,0.25,Cheating,Cheating,2024
+2024-01-15 11:44:00,124,SES29,EDGE3,Lab,0,35.38,7,Medium,0.81,0.62,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:44:10,197,SES21,EDGE4,Classroom,1,35.12,6,High,0.93,0.29,Collaborative,Collaborative,2024
+2024-01-15 11:44:20,108,SES5,EDGE8,Online,0,43.78,4,High,0.9,0.1,Cheating,Cheating,2024
+2024-01-15 11:44:30,149,SES32,EDGE3,Library,1,24.07,8,Medium,0.94,0.03,Distracted,Distracted,2024
+2024-01-15 11:44:40,131,SES12,EDGE4,Classroom,0,50.75,4,Medium,0.76,0.24,Cheating,Cheating,2024
+2024-01-15 11:44:50,146,SES32,EDGE3,Online,1,5.68,5,Medium,0.74,0.52,Attentive,Attentive,2024
+2024-01-15 11:45:00,133,SES19,EDGE9,Online,0,36.1,1,High,0.78,0.43,Cheating,Cheating,2024
+2024-01-15 11:45:10,178,SES6,EDGE6,Library,0,11.68,3,Medium,0.24,0.34,Attentive,Attentive,2024
+2024-01-15 11:45:20,139,SES15,EDGE9,Classroom,1,34.34,1,Low,0.77,0.74,Attentive,Attentive,2024
+2024-01-15 11:45:30,159,SES29,EDGE5,Online,1,34.46,6,Low,0.89,0.97,Attentive,Attentive,2024
+2024-01-15 11:45:40,140,SES25,EDGE7,Online,1,49.7,4,Low,0.86,0.82,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:45:50,155,SES30,EDGE2,Online,1,17.77,9,High,0.49,0.8,Cheating,Cheating,2024
+2024-01-15 11:46:00,130,SES44,EDGE4,Library,0,24.18,9,Low,0.03,0.53,Idle,Idle,2024
+2024-01-15 11:46:10,129,SES48,EDGE8,Library,0,53.17,5,Low,0.16,0.7,Needs Assistance,Needs Assistance,2024
+2024-01-15 11:46:20,132,SES21,EDGE8,Lab,1,0.54,4,Low,0.79,0.95,Collaborative,Collaborative,2024
+2024-01-15 11:46:30,102,SES41,EDGE6,Lab,1,24.72,5,Medium,0.73,0.02,Needs Assistance,Needs Assistance,2024
