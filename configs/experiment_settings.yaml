@@ -1,0 +1,17 @@
+# Dataset split + preprocessing settings (manuscript Section 5.1)
+split:
+  train_frac: 0.70
+  val_frac: 0.15
+  test_frac: 0.15
+  seed: 42
+  stratify_by_device: false   # set true for Edge-IoT-2024
+
+preprocessing:
+  normalization: zscore
+  imbalance_handling: smote_enn
+  fit_on: train_only
+
+evaluation:
+  n_runs: 10
+  seeds: [7, 42, 123, 2024, 31415]
+  statistical_test: wilcoxon_signed_rank
