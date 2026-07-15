@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "IoT-SHIELD: A Hybrid Metaheuristic Deep Learning Framework for Real-Time IoT Intrusion Detection"
+authors:
+  - family-names: "[Last Name]"
+    given-names: "[First Name]"
+    affiliation: "[Institution]"
+date-released: [YYYY-MM-DD]
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/<your-username>/IoT-SHIELD"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "[Last Name]"
+      given-names: "[First Name]"
+  title: "Hybrid Metaheuristic Deep Learning Approach for Real-Time Intrusion Detection and Threat Classification in Next-Generation IoT Networks"
+  journal: "[Journal Name]"
+  year: [Year]
+  status: "under review"
